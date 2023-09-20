@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: student
 permalink: /students/
 title: students
-description: students
+description: students 
 nav: true
 nav_order: 6
 ---
 
-Students...
