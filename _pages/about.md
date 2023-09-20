@@ -2,28 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI+Sustainability:</a> Building an environmentally
-sustainable and equitable future
+subtitle: <a href='/research/'>AI + Sustainability:</a> Building an environmentally sustainable and equitable future
+
 
 profile:
   align: right
   image: img_ren.jpg
   image_circular: false # crops the image to make it circular
   address: >
-  
+    <p>E-mail: <a href="mailto:shaolei@ucr.edu">shaolei@ucr.edu</a></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on **<a href='/research/'>AI + Sustainability</a>**, with the goal of `building an environmentally sustainable and equitable future`. More concretely, I am interested in: (1) developing foundational algorithms and methodologies to make AI and computing systems more sustainable; and (2) leveraging AI and computational techniques to make our society more sustainable and equitable. I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computatutational sustainability.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-**Prospective Students:** I have multiple openings available for graduate students with full financial support. 
+**Prospective Students:** I have multiple openings available for graduate students with full financial support (in either [ECE](https://www1.cs.ucr.edu/) or
+[CSE](https://www1.cs.ucr.edu/) department). 
 Students with interests in AI + sustainability, optimization, machine learning, or other relevant areas
 are welcome to contact me.
