@@ -1,7 +1,64 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+
+@article{Environmentally_Equitable_AI_arXiv_2023,
+  abbr={arXiv},
+  title={Towards Environmentally Equitable AI via Geographical Load Balancing},
+  author={Pengfei Li and Jianyi Yang and Adam Wierman and Shaolei Ren},
+  abstract={Fueled by the soaring popularity of large language and foundation models, the accelerated growth of artificial intelligence (AI) models' enormous environmental footprint has come under increased scrutiny. While many approaches have been proposed to make AI more energy-efficient and environmentally friendly, environmental inequity -- the fact that AI's environmental footprint can be disproportionately higher in certain regions than in others -- has emerged, raising social-ecological justice concerns. This paper takes a first step toward addressing AI's environmental inequity by balancing its regional negative environmental impact. Concretely, we focus on the carbon and water footprints of AI model inference and propose equity-aware geographical load balancing (GLB) to explicitly address AI's environmental impacts on the most disadvantaged regions. We run trace-based simulations by considering a set of 10 geographically-distributed data centers that serve inference requests for a large language AI model. The results demonstrate that existing GLB approaches may amplify environmental inequity while our proposed equity-aware GLB can significantly reduce the regional disparity in terms of carbon and water footprints.},
+  journal={arXiv},
+  year={2023},
+  url={https://arxiv.org/abs/2307.05494},
+  html={https://arxiv.org/abs/2307.05494},
+  bibtex_show = {true},
+  selected={true}
+}
+
+
+@article{SOCO_ERL_Infocom_2023,
+  abbr={INFOCOM},
+  title={Robustified Learning for Online Optimization with Memory Costs},
+  author={Pengfei Li and Jianyi Yang and Shaolei Ren},
+  abstract={Online optimization with memory costs has many real-world applications, where sequential actions are made without knowing the future input. Nonetheless, the memory cost couples the actions over time, adding substantial challenges. Conventionally, this problem has been approached by various expert-designed online algorithms with the goal of achieving bounded worst-case competitive ratios, but the resulting average performance is often unsatisfactory. On the other hand, emerging machine learning (ML) based optimizers can improve the average performance, but suffer from the lack of worst-case performance robustness. In this paper, we propose a novel expert-robustified learning (ERL) approach, achieving {both} good average performance and robustness. More concretely, for robustness, ERL introduces a novel projection operator that robustifies ML actions by utilizing an expert online algorithm; for average performance, ERL trains the ML optimizer based on a recurrent architecture by explicitly considering downstream expert robustification. We prove that, for any lambda≥1, ERL can achieve lambda-competitive against the expert algorithm and lambda*C-competitive against the optimal offline algorithm (where C is the expert's competitive ratio). Additionally, we extend our analysis to a novel setting of multi-step memory costs. Finally, our analysis is supported by empirical experiments for an energy scheduling application.},
+  journal={INFOCOM},
+  year={2023},
+  url={https://arxiv.org/abs/2305.00677},
+  html={https://arxiv.org/abs/2305.00677},
+  bibtex_show = {true},
+  selected={false}
+}
+
+
+
+
+@article{Learning_OBM_ICML_2023,
+  abbr={ICML},
+  title={Learning for Edge-Weighted Online Bipartite Matching with Robustness Guarantees},
+  author={Pengfei Li and Jianyi Yang and Shaolei Ren},
+  abstract={Many problems, such as online ad display, can be formulated as online bipartite matching. The crucial challenge lies in the nature of sequentially-revealed online item information, based on which we make irreversible matching decisions at each step. While numerous expert online algorithms have been proposed with bounded worst-case competitive ratios, they may not offer satisfactory performance in average cases. On the other hand, reinforcement learning (RL) has been applied to improve the average performance, but it lacks robustness and can perform arbitrarily poorly. In this paper, we propose a novel RL-based approach to edge-weighted online bipartite matching with robustness guarantees (LOMAR), achieving both good average-case and worst-case performance. The key novelty of LOMAR is a new online switching operation which, based on a judicious condition to hedge against future uncertainties, decides whether to follow the expert's decision or the RL decision for each online item. We prove that for any ρ∈[0,1], LOMAR is ρ-competitive against any given expert online algorithm. To improve the average performance, we train the RL policy by explicitly considering the online switching operation. Finally, we run empirical experiments to demonstrate the advantages of LOMAR compared to existing baselines.},
+  journal={ICML},
+  year={2023},
+  url={https://arxiv.org/abs/2306.00172},
+  html={https://icml.cc/virtual/2023/poster/24251},
+  bibtex_show = {true},
+  selected={true}
+}
+
+
+@article{SOCO_ECL2O_Sigmetrics_2022,
+  abbr={SIGMETRICS},
+  title={Expert-Calibrated Learning for Online Optimization with Switching Costs},
+  author={Pengfei Li and Jianyi Yang and Shaolei Ren},
+  abstract={We study online convex optimization with switching costs, a practically important but also extremely challenging problem due to the lack of complete offline information. By tapping into the power of machine learning (ML) based optimizers, ML-augmented online algorithms (also referred to as expert calibration in this paper) have been emerging as state of the art, with provable worst-case performance guarantees. Nonetheless, by using the standard practice of training an ML model as a standalone optimizer and plugging it into an ML-augmented algorithm, the average cost performance can be highly unsatisfactory. In order to address the "how to learn" challenge, we propose EC-L2O (expert-calibrated learning to optimize), which trains an ML-based optimizer by explicitly taking into account the downstream expert calibrator. To accomplish this, we propose a new differentiable expert calibrator that generalizes regularized online balanced descent and offers a provably better competitive ratio than pure ML predictions when the prediction error is large. For training, our loss function is a weighted sum of two different losses --- one minimizing the average ML prediction error for better robustness, and the other one minimizing the post-calibration average cost. We also provide theoretical analysis for EC-L2O, highlighting that expert calibration can be even beneficial for the average cost performance and that the high-percentile tail ratio of the cost achieved by EC-L2O to that of the offline optimal oracle (i.e., tail cost ratio) can be bounded. Finally, we test EC-L2O by running simulations for sustainable datacenter demand response. Our results demonstrate that EC-L2O can empirically achieve a lower average cost as well as a lower competitive ratio than the existing baseline algorithms.},
+  journal={SIGMETRICS},
+  year={2022},
+  url={https://dl.acm.org/doi/10.1145/3530894},
+  html={https://dl.acm.org/doi/10.1145/3530894},
+  bibtex_show = {true},
+  selected={true}
+}
+
 
 @book{einstein1956investigations,
   bibtex_show={true},
@@ -25,27 +82,7 @@
   publisher={American Association of Physics Teachers}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
+
 
 @article{einstein1905molekularkinetischen,
   title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
