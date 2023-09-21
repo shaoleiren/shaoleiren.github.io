@@ -8,5 +8,5 @@ nav_order: 4
 horizontal: false
 ---
 
-My research on AI sustainability has been reported and covered by 800+ media outlets in more than 60 countries, including major news media such as 
+My research on AI sustainability has been reported and covered in more than 60 countries, including major news outlets such as 
 **under construction**
