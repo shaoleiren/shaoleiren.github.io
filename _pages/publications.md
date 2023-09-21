@@ -7,12 +7,10 @@ nav: true
 nav_order: 1
 ---
 
-**under construction**
+**Under construction. Please visit my old page: [https://intra.ece.ucr.edu/~sren/publications.html](https://intra.ece.ucr.edu/~sren/publications.html)**
 
 <!-- _pages/publications.md -->
 
-<div class="publications">
-
-	{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
+ <div class="publications">
+     {% bibliography -f {{ site.scholar.bibliography }} %}
+ </div>
