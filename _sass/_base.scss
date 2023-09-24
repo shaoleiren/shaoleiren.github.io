@@ -627,12 +627,13 @@ footer.sticky-bottom {
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
+        font-size: 1.05rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0.4rem;
+          padding-right: 0.4rem;
 
           a {
             color: white;
@@ -956,17 +957,22 @@ progress::-moz-progress-bar {
   }
 }
 
+
+
 /* Table of Contents */
 nav[data-toggle="toc"] {
   top: 5rem;
+ /* width: 150px; */
 
   .nav .nav>li>a {
-    font-size: .75rem;
+    font-size: 0.85rem;
   }
 
   .nav>li>a {
     color: var(--global-text-color);
-    font-size: .75rem;
+    /*  color: #{$purple-color};  */
+    font-weight: light;
+    font-size: 0.85rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -977,7 +983,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: .75rem;
+    font-size: 0.85rem;
 
     &:hover {
       color: var(--global-hover-color);

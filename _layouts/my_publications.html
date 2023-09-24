@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">publications</h1>
+    <!-- <p class="post-description">{{ page.description }}</p> -->
+  </header>
+  My research broadly focuses on <b>AI + Sustainability</b>, with the goal of building a sustainable and equitable future. More concretely, I work on two complementary directions: (1) developing foundational algorithms and methodologies to make AI and computing systems more sustainable; and (2) leveraging AI and computational techniques to make our society more sustainable and equitable. 
+  In addition, I have also done research on a few other topics such as security,
+  fairness, and networks.
+  <br/>
+  <br/>
+  <article>
+          
+          <h3 class="card-title font-weight-medium">selected papers</h3>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true && show=true]* %}
+          </div>
+  
+          <h3 class="card-title font-weight-medium">ai & computing for sustainability</h3>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=ai4sustainability && show=true]* %}
+          </div>
+
+
+          <h3 class="card-title font-weight-medium">sustainabile ai & computing</h3>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=green && show=true]* %}
+          </div>
+
+          <h3 class="card-title font-weight-medium">security & resilience</h3>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=security && show=true]* %}
+          </div>
+
+          <h3 class="card-title font-weight-medium">others</h3>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=others && show=true]* %}
+          </div>
+
+          <h3 class="card-title font-weight-medium">by year</h3>
+          <h4 class="card-title font-weight-medium">2021 -- present</h4>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[timerange=21to25 && show=true]* %}
+          </div>
+          <h4 class="card-title font-weight-medium">2016 -- 2020</h4>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[timerange=16to20 && show=true]* %}
+          </div>
+          <h4 class="card-title font-weight-medium">2015 & before</h4>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[timerange=before16 && show=true]* %}
+          </div>
+
+  </article>
+  
+
+</div>
+
+
+
+
+</div>

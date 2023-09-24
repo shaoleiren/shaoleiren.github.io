@@ -82,6 +82,8 @@ layout: default
             {% when "interests" %}
               {% include resume/interests.html %}
             {% when "certificates" %}
+              {% include resume/publications.html %}
+            {% when "publications" %}
               {% include resume/certificates.html %}
             {% else %}
 
@@ -91,6 +93,10 @@ layout: default
       {% endfor %}
       </div>
   </article>
+
+  <div class="publications">
+     {% bibliography -f {{ site.scholar.bibliography }} %}
+ </div>
 
 </div>
 {% endunless %}

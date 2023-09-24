@@ -1,65 +1,6 @@
 ---
 ---
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
-}
 
 
 @article{Environmentally_Equitable_AI_arXiv_2023,
@@ -68,12 +9,55 @@
   author={Pengfei Li and Jianyi Yang and Adam Wierman and Shaolei Ren},
   abstract={Fueled by the soaring popularity of large language and foundation models, the accelerated growth of artificial intelligence (AI) models' enormous environmental footprint has come under increased scrutiny. While many approaches have been proposed to make AI more energy-efficient and environmentally friendly, environmental inequity -- the fact that AI's environmental footprint can be disproportionately higher in certain regions than in others -- has emerged, raising social-ecological justice concerns. This paper takes a first step toward addressing AI's environmental inequity by balancing its regional negative environmental impact. Concretely, we focus on the carbon and water footprints of AI model inference and propose equity-aware geographical load balancing (GLB) to explicitly address AI's environmental impacts on the most disadvantaged regions. We run trace-based simulations by considering a set of 10 geographically-distributed data centers that serve inference requests for a large language AI model. The results demonstrate that existing GLB approaches may amplify environmental inequity while our proposed equity-aware GLB can significantly reduce the regional disparity in terms of carbon and water footprints.},
   journal={arXiv},
+  month = {},
   year={2023},
   url={https://arxiv.org/abs/2307.05494},
   html={https://arxiv.org/abs/2307.05494},
   bibtex_show = {true},
-  selected={true}
+  selected={true},
+  topic = {green},
+  timerange = {21to25},
+  show = {true}
 }
+
+@article{AI_WaterFootprint_arXiv_2023,
+  abbr={arXiv},
+  title={Making AI Less" Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models},
+  author={Pengfei Li and Jianyi Yang and Mohammad A. Islam and Shaolei Ren},
+  abstract={The growing carbon footprint of artificial intelligence (AI) models, especially large ones such as GPT-3 and GPT-4, has been undergoing public scrutiny. Unfortunately, however, the equally important and enormous water footprint of AI models has remained under the radar. For example, training GPT-3 in Microsoft's state-of-the-art U.S. data centers can directly consume 700,000 liters of clean freshwater (enough for producing 370 BMW cars or 320 Tesla electric vehicles) and the water consumption would have been tripled if training were done in Microsoft's Asian data centers, but such information has been kept as a secret. This is extremely concerning, as freshwater scarcity has become one of the most pressing challenges shared by all of us in the wake of the rapidly growing population, depleting water resources, and aging water infrastructures. To respond to the global water challenges, AI models can, and also should, take social responsibility and lead by example by addressing their own water footprint. In this paper, we provide a principled methodology to estimate fine-grained water footprint of AI models, and also discuss the unique spatial-temporal diversities of AI models' runtime water efficiency. Finally, we highlight the necessity of holistically addressing water footprint along with carbon footprint to enable truly sustainable AI.},
+  journal={arXiv},
+  month = {},
+  year={2023},
+  url={https://arxiv.org/abs/2304.03271},
+  html={https://arxiv.org/abs/2304.03271},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {21to25},
+  show = {true}
+}
+
+@article{Learning_Equitable_PublicModel_2023,
+  abbr={Preprint},
+  title={Building Socially-Equitable Public Models for Environmental Sustainability},
+  author={Yejia Liu and Pengfei Li and Jianyi Yang and Tongxin Li and Shaolei Ren},
+  abstract={Public models have emerged as crucial components in a wide range of AI
+    applications, offering extensive general knowledge and accurate prediction capabilities. However, relying solely on prediction accuracy may not be optimal
+when dealing with diverse downstream tasks facing specific business objectives. In this study, we incorporate the objective of downstream agents into the
+learning process and focus on the application of environmental sustainability. We introduce a novel socially-equitable objective and propose a decision-oriented policy gradient algorithm to handle non-differentiable
+cost functions.},
+  journal={Preprint},
+  month = {},
+  year={2023},
+  url={},
+  html={},
+  bibtex_show = {false},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
+}
+
 
 @article{Learning_AnytimeConstrainedRL_NeurIPS_2023,
   abbr={NeurIPS},
@@ -81,12 +65,18 @@
   author={Jianyi Yang and Pengfei Li and Tongxin Li and Adam Wierman and Shaolei Ren},
   abstract={This paper studies the problem of Anytime-Constrained Markov Decision Process (A-CMDP). Existing works on Constrained Markov Decision Processes (CMDPs) aim to optimize the expected reward while constraining the expected cost over random dynamics, but the cost in a specific episode can still be unsatisfactorily high. In contrast, the goal of A-CMDP is to optimize the expected reward while guaranteeing a bounded cost in each round of any episode against a policy prior. We propose a new algorithm, called Anytime-Constrained Reinforcement Learning (ACRL), which provably guarantees the anytime cost constraints. The regret analysis shows the policy asymptotically matches the optimal reward achievable under anytime constraints. Experiments on the application of carbon-intelligent computing verify the reward performance and cost constraint guarantee of ACRL.},
   journal={NeurIPS},
+  month = {},
   year={2023},
   url={},
   html={},
   bibtex_show = {true},
-  selected={true}
+  selected={true},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
 }
+
+
 
 
 
@@ -97,10 +87,14 @@
   abstract={We study a general form of Smoothed Online Convex Optimization, a.k.a. SOCO, including multi-step switching costs and feedback delay. We propose a novel machine learning (ML) augmented online algorithm, Robustness-Constrained Learning (RCL), which combines untrusted ML predictions with a trusted expert online algorithm via constrained projection to robustify the ML prediction. Specifically, we prove that RCL is able to guarantee (1+lambda)-competitiveness against any given expert for any lambda>0, while also explicitly training the ML model in a robustification-aware manner to improve the average-case performance. Importantly, RCL is the first ML-augmented algorithm with a provable robustness guarantee in the case of multi-step switching cost and feedback delay. We demonstrate the improvement of RCL in both robustness and average performance using battery management for electrifying transportation as a case study.},
   journal={NeurIPS},
   year={2023},
+  month = {},
   url={},
   html={},
   bibtex_show = {true},
-  selected={true}
+  selected={true},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
 }
 
 @article{Learning_Blackbox_NeurIPS_2023,
@@ -109,11 +103,15 @@
   author={Tongxin Li and Yiheng Lin and Shaolei Ren and Adam Wierman},
   abstract={We study the tradeoff between consistency and robustness in the context of a single-trajectory time-varying Markov Decision Process (MDP) with untrusted machine-learned advice. Our work departs from the typical approach of treating advice as coming from black-box sources by instead considering a setting where additional information about how the advice is generated is available. We prove a first-of-its-kind consistency and robustness tradeoff given Q-value advice under a general MDP model that includes both continuous and discrete state/action spaces. Our results highlight that utilizing Q-value advice enables dynamic pursuit of the better of machine-learned advice and a robust baseline, thus result in near-optimal performance guarantees, which provably improves what can be obtained solely with black-box advice.},
   journal={NeurIPS},
+  month = {},
   year={2023},
   url={https://arxiv.org/abs/2307.10524},
   html={https://arxiv.org/abs/2307.10524},
   bibtex_show = {true},
-  selected={true}
+  selected={true},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
 }
 
 
@@ -123,11 +121,15 @@
   author={Pengfei Li and Jianyi Yang and Shaolei Ren},
   abstract={Online optimization with memory costs has many real-world applications, where sequential actions are made without knowing the future input. Nonetheless, the memory cost couples the actions over time, adding substantial challenges. Conventionally, this problem has been approached by various expert-designed online algorithms with the goal of achieving bounded worst-case competitive ratios, but the resulting average performance is often unsatisfactory. On the other hand, emerging machine learning (ML) based optimizers can improve the average performance, but suffer from the lack of worst-case performance robustness. In this paper, we propose a novel expert-robustified learning (ERL) approach, achieving {both} good average performance and robustness. More concretely, for robustness, ERL introduces a novel projection operator that robustifies ML actions by utilizing an expert online algorithm; for average performance, ERL trains the ML optimizer based on a recurrent architecture by explicitly considering downstream expert robustification. We prove that, for any lambda≥1, ERL can achieve lambda-competitive against the expert algorithm and lambda*C-competitive against the optimal offline algorithm (where C is the expert's competitive ratio). Additionally, we extend our analysis to a novel setting of multi-step memory costs. Finally, our analysis is supported by empirical experiments for an energy scheduling application.},
   journal={INFOCOM},
+  month = {},
   year={2023},
   url={https://arxiv.org/abs/2305.00677},
   html={https://arxiv.org/abs/2305.00677},
   bibtex_show = {true},
-  selected={false}
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
 }
 
 
@@ -139,12 +141,71 @@
   author={Pengfei Li and Jianyi Yang and Shaolei Ren},
   abstract={Many problems, such as online ad display, can be formulated as online bipartite matching. The crucial challenge lies in the nature of sequentially-revealed online item information, based on which we make irreversible matching decisions at each step. While numerous expert online algorithms have been proposed with bounded worst-case competitive ratios, they may not offer satisfactory performance in average cases. On the other hand, reinforcement learning (RL) has been applied to improve the average performance, but it lacks robustness and can perform arbitrarily poorly. In this paper, we propose a novel RL-based approach to edge-weighted online bipartite matching with robustness guarantees (LOMAR), achieving both good average-case and worst-case performance. The key novelty of LOMAR is a new online switching operation which, based on a judicious condition to hedge against future uncertainties, decides whether to follow the expert's decision or the RL decision for each online item. We prove that for any ρ∈[0,1], LOMAR is ρ-competitive against any given expert online algorithm. To improve the average performance, we train the RL policy by explicitly considering the online switching operation. Finally, we run empirical experiments to demonstrate the advantages of LOMAR compared to existing baselines.},
   journal={ICML},
+  month = {},
   year={2023},
   url={https://arxiv.org/abs/2306.00172},
   html={https://icml.cc/virtual/2023/poster/24251},
   bibtex_show = {true},
-  selected={true}
+  selected={true},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
 }
+
+@article{Learning_NNSplitter_ICML_2023,
+  abbr={ICML},
+  title={NNSplitter: An Active Defense Solution for DNN Model via Automated Weight Obfuscation},
+  author={Tong Zhou and Yukui Luo and Shaolei Ren and Xiaolin Xu},
+  abstract={As a type of valuable intellectual property (IP), deep neural network (DNN) models have been protected by techniques like watermarking. However, such passive model protection cannot fully prevent model abuse. In this work, we propose an active model IP protection scheme, namely NNSplitter, which actively protects the model by splitting it into two parts: the obfuscated model that performs poorly due to weight obfuscation, and the model secrets consisting of the indexes and original values of the obfuscated weights, which can only be accessed by authorized users with the support of the trusted execution environment. Experimental results demonstrate the effectiveness of NNSplitter, e.g., by only modifying 275 out of over 11 million (i.e., 0.002%) weights, the accuracy of the obfuscated ResNet-18 model on CIFAR-10 can drop to 10%. Moreover, NNSplitter is stealthy and resilient against norm clipping and fine-tuning attacks, making it an appealing solution for DNN model protection.},
+  journal={ICML},
+  month = {},
+  year={2023},
+  url={https://arxiv.org/abs/2305.00097},
+  html={https://icml.cc/virtual/2023/poster/24038},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+
+@article{Learning_UnrollingOnlineAllocation_AAAI_2023,
+  abbr={AAAI},
+  title={Learning-Assisted Algorithm Unrolling for Online Optimization with Budget Constraints},
+  author={Jianyi Yang and Shaolei Ren},
+  abstract={Online optimization with multiple budget constraints is challenging since the online decisions over a short time horizon are coupled together by strict inventory constraints. The existing manually-designed algorithms cannot achieve satisfactory average performance for this setting because they often need a large number of time steps for convergence and/or may violate the inventory constraints. In this paper, we propose a new machine learning (ML) assisted unrolling approach, called LAAU (Learning-Assisted Algorithm Unrolling), which unrolls the agent’s online decision pipeline and leverages an ML model for updating the Lagrangian multiplier online. For efficient training via backpropagation, we derive gradients of the decision pipeline over time. We also provide the average cost bounds for two cases when training data is available offline and collected online, respectively. Finally, we present numerical results to highlight that LAAU can outperform the existing baselines.},
+  journal={AAAI},
+  month = {},
+  year={2023},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/26278},
+  html={https://ojs.aaai.org/index.php/AAAI/article/view/26278},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {false}
+}
+
+@article{LDC_MetaLDC_tinyML_2023,
+  abbr={tinyML},
+  title={MetaLDC: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption},
+  author={Yejia Liu and Shijin Duan and Xiaolin Xu and Shaolei Ren},
+  abstract={Fast model updates for unseen tasks on intelligent edge devices are crucial but also challenging due to the limited computational power. In this paper,we propose MetaLDC, which meta-trains braininspired ultra-efficient low-dimensional computing classifiers to enable fast adaptation on tiny devices with minimal computational costs. Concretely, during the meta-training stage, MetaLDC meta trains a representation offline by explicitly taking into account that the final (binary) class layer will be fine-tuned for fast adaptation for unseen tasks on tiny devices; during the meta-testing stage, MetaLDC uses closed-form gradients of the loss function to enable fast adaptation of the class layer. Unlike traditional neural networks, MetaLDC is designed based on the emerging LDC framework to enable ultra-efficient on-device inference. Our experiments have demonstrated that compared to SOTA baselines, MetaLDC achieves higher accuracy, robustness against random bit errors, as well as cost-efficient hardware computation.},
+  journal={tinyML},
+  month = {},
+  year={2023},
+  url={https://arxiv.org/abs/2302.12347},
+  html={https://arxiv.org/abs/2302.12347},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {21to25},
+  show = {false}
+}
+
+
 
 
 @article{SOCO_ECL2O_Sigmetrics_2022,
@@ -153,11 +214,905 @@
   author={Pengfei Li and Jianyi Yang and Shaolei Ren},
   abstract={We study online convex optimization with switching costs, a practically important but also extremely challenging problem due to the lack of complete offline information. By tapping into the power of machine learning (ML) based optimizers, ML-augmented online algorithms (also referred to as expert calibration in this paper) have been emerging as state of the art, with provable worst-case performance guarantees. Nonetheless, by using the standard practice of training an ML model as a standalone optimizer and plugging it into an ML-augmented algorithm, the average cost performance can be highly unsatisfactory. In order to address the "how to learn" challenge, we propose EC-L2O (expert-calibrated learning to optimize), which trains an ML-based optimizer by explicitly taking into account the downstream expert calibrator. To accomplish this, we propose a new differentiable expert calibrator that generalizes regularized online balanced descent and offers a provably better competitive ratio than pure ML predictions when the prediction error is large. For training, our loss function is a weighted sum of two different losses --- one minimizing the average ML prediction error for better robustness, and the other one minimizing the post-calibration average cost. We also provide theoretical analysis for EC-L2O, highlighting that expert calibration can be even beneficial for the average cost performance and that the high-percentile tail ratio of the cost achieved by EC-L2O to that of the offline optimal oracle (i.e., tail cost ratio) can be bounded. Finally, we test EC-L2O by running simulations for sustainable datacenter demand response. Our results demonstrate that EC-L2O can empirically achieve a lower average cost as well as a lower competitive ratio than the existing baseline algorithms.},
   journal={SIGMETRICS},
+  month = {},
   year={2022},
   url={https://dl.acm.org/doi/10.1145/3530894},
   html={https://dl.acm.org/doi/10.1145/3530894},
   bibtex_show = {true},
-  selected={true}
+  selected={true},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
 }
 
+
+@article{SOCO_ECL2O_Sigmetrics_2022,
+  abbr={SIGMETRICS},
+  title={One Proxy Device Is Enough for Hardware-aware Neural Architecture Search},
+  author={Bingqian Lu and Jianyi Yang and Weiwen Jiang and Yiyu Shi and Shaolei Ren},
+  abstract={Convolutional neural networks (CNNs) are used in numerous real-world applications such as vision-based autonomous driving and video content analysis. To run CNN inference on various target devices, hardware-aware neural architecture search (NAS) is crucial. A key requirement of efficient hardware-aware NAS is the fast evaluation of inference latencies in order to rank different architectures. While building a latency predictor for each target device has been commonly used in state of the art, this is a very time-consuming process, lacking scalability in the presence of extremely diverse devices. In this work, we address the scalability challenge by exploiting latency monotonicity --- the architecture latency rankings on different devices are often correlated. When strong latency monotonicity exists, we can re-use architectures searched for one proxy device on new target devices, without losing optimality. In the absence of strong latency monotonicity, we propose an efficient proxy adaptation technique to significantly boost the latency monotonicity. Finally, we validate our approach and conduct experiments with devices of different platforms on multiple mainstream search spaces, including MobileNet-V2, MobileNet-V3, NAS-Bench-201, ProxylessNAS and FBNet. Our results highlight that, by using just one proxy device, we can find almost the same Pareto-optimal architectures as the existing per-device NAS, while avoiding the prohibitive cost of building a latency predictor for each device.},
+  journal={SIGMETRICS},
+  month = {},
+  year={2022},
+  url={https://arxiv.org/abs/2111.01203},
+  html={https://dl.acm.org/doi/abs/10.1145/3491046},
+  bibtex_show = {true},
+  selected={true},
+  topic = {green},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+
+@article{DNN_KnowledgeInformed_ICML_2022,
+  abbr={ICML},
+  title={Informed Learning by Wide Neural Networks: Convergence, Generalization and Sampling Complexity},
+  author={Jianyi Yang and Shaolei Ren},
+  abstract={By integrating domain knowledge with labeled samples, informed machine learning has been emerging to improve the learning performance for a wide range of applications. Nonetheless, rigorous understanding of the role of injected domain knowledge has been under-explored. In this paper, we consider an informed deep neural network (DNN) with over-parameterization and domain knowledge integrated into its training objective function, and study how and why domain knowledge benefits the performance. Concretely, we quantitatively demonstrate the two benefits of domain knowledge in informed learning -- regularizing the label-based supervision and supplementing the labeled samples -- and reveal the trade-off between label and knowledge imperfectness in the bound of the population risk. Based on the theoretical analysis, we propose a generalized informed training objective to better exploit the benefits of knowledge and balance the label and knowledge imperfectness, which is validated by the population risk bound. Our analysis on sampling complexity sheds lights on how to choose the hyper-parameters for informed learning, and further justifies the advantages of knowledge informed learning.},
+  journal={ICML},
+  month = {},
+  year={2022},
+  url={https://proceedings.mlr.press/v162/yang22l.html},
+  html={https://proceedings.mlr.press/v162/yang22l.html},
+  bibtex_show = {true},
+  selected={true},
+  topic = {green},
+  timerange = {21to25},
+  show = {true}
+}
+
+@article{Learning_L2O_Robust_INFOCOM_2022,
+  abbr={INFOCOM},
+  title={Learning for robust combinatorial optimization: Algorithm and application},
+  author={Zhihui Shao and Jianyi Yang and Cong Shen and Shaolei Ren},
+  abstract={Learning to optimize (L2O) has recently emerged as a promising approach to solving optimization problems by exploiting the strong prediction power of neural networks and offering lower runtime complexity than conventional solvers. While L2O has been applied to various problems, a crucial yet challenging class of problems -- robust combinatorial optimization in the form of minimax optimization -- have largely remained under-explored. In addition to the exponentially large decision space, a key challenge for robust combinatorial optimization lies in the inner optimization problem, which is typically non-convex and entangled with outer optimization. In this paper, we study robust combinatorial optimization and propose a novel learning-based optimizer, called LRCO (Learning for Robust Combinatorial Optimization), which quickly outputs a robust solution in the presence of uncertain context. LRCO leverages a pair of learning-based optimizers &#x2014; one for the minimizer and the other for the maximizer &#x2014; that use their respective objective functions as losses and can be trained without the need of labels for training problem instances. To evaluate the performance of LRCO, we perform simulations for the task offloading problem in vehicular edge computing. Our results highlight that LRCO can greatly reduce the worst-case cost and improve robustness, while having a very low runtime complexity.},
+  journal={INFOCOM},
+  month = {},
+  year={2022},
+  url={https://arxiv.org/abs/2112.10377},
+  html={https://arxiv.org/abs/2112.10377},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+@article{DNN_QoE_OnDevice_TC_2022,
+  abbr={TC},
+  title={Automated Customization of On-Device Inference for Quality-of-Experience Enhancement},
+  author={Yang Bai and Lixing Chen and Shaolei Ren and Jie Xu},
+  abstract={The rapid uptake of intelligent applications is pushing deep learning (DL) capabilities to Internet-of-Things (IoT). Despite the emergence of new tools for embedding deep neural networks (DNNs) into IoT devices, providing satisfactory Quality of Experience (QoE) to users is still challenging due to the heterogeneity in DNN architectures, IoT devices, and user preferences. This paper studies automated customization for DL inference on IoT devices (termed as on-thing inference), and our goal is to enhance user QoE by configuring the on-thing inference with an appropriate DNN for users under different usage scenarios. The core of our method is a DNN selection module that learns user QoE patterns on-the-fly and identifies the best-fit DNN for on-thing inference with the learned knowledge. It leverages a novel online learning algorithm, NeuralUCB, that has excellent generalization ability for handling various user QoE patterns. We also embed the knowledge transfer technique in NeuralUCB to expedite the learning process. However, NeuralUCB frequently solicits QoE ratings from users, which incurs non-negligible inconvenience. To address this problem, we design feedback solicitation schemes to reduce the number of QoE solicitations while maintaining the learning efficiency of NeuralUCB. A pragmatic problem, aggregated QoE, is further investigated to improve the practicality of our framework. We conduct experiments on both synthetic and real-world data. The results indicate that our method efficiently learns the user QoE pattern with few solicitations and provides drastic QoE enhancement for IoT devices.},
+  journal={IEEE Transactions on Computers},
+  volume = {72},
+  number = {5},
+  pages ={1329 - 1342},
+  month = {May},
+  year={2022},
+  url={https://arxiv.org/abs/2112.06918},
+  html={https://ieeexplore.ieee.org/document/9896131},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+
+@article{ContinualLearning_GPS_NeurIPS_2022,
+  abbr={NeurIPS},
+  title={Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning},
+  author={Yejia Liu and Wang Zhu and Shaolei Ren},
+  abstract={Continual learning faces a crucial challenge of catastrophic forgetting. To address this challenge, experience replay (ER) that maintains a tiny subset of samples from previous tasks has been commonly used. Existing ER works usually focus on refining the learning objective for each task with a static memory construction policy. In this paper, we formulate the dynamic memory construction in ER as a combinatorial optimization problem, which aims at directly minimizing the global loss across all experienced tasks. We first apply three tactics to solve the problem in the offline setting as a starting point. To provide an approximate solution to this problem in the online continual learning setting, we further propose the Global Pseudo-task Simulation (GPS), which mimics future catastrophic forgetting of the current task by permutation. Our empirical results and analyses suggest that the GPS consistently improves accuracy across four commonly used vision benchmarks. We have also shown that our GPS can serve as the unified framework for integrating various memory construction policies in existing ER works.},
+  journal={NeurIPS},
+  month = {},
+  year={2022},
+  url={https://arxiv.org/abs/2210.08442},
+  html={https://dl.acm.org/doi/10.1145/3530894},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+
+
+
+
+
+@article{Bandit_PredictedConctext_INFOCOM_2021,
+  abbr={INFOCOM},
+  title={Bandit Learning with Predicted Context: Regret Analysis and Selective Context Query},
+  author={Jianyi Yang and Shaolei Ren},
+  abstract={Contextual bandit learning selects actions (i.e., arms) based on context information to maximize rewards while balancing exploitation and exploration. In many applications (e.g., cloud resource management with dynamic workloads), before arm selection, the agent/learner can either predict context information online based on context history or selectively query the context from an outside expert. Motivated by this practical consideration, we study a novel contextual bandit setting where context information is either predicted online or queried from an expert. First, considering predicted context only, we quantify the impact of context prediction on the cumulative regret (compared to an oracle with perfect context information) by deriving an upper bound on regret, which takes the form of a weighted combination of regret incurred by standard bandit learning and the context prediction error. Then, inspired by the regret's structural decomposition, we propose context query algorithms to selectively obtain outside expert's input (subject to a total query budget) for more accurate context, decreasing the overall regret. Finally, we apply our algorithms to virtual machine scheduling on cloud platforms. The simulation results validate our regret analysis and shows the effectiveness of our selective context query algorithms.},
+  journal={INFOCOM},
+  month = {},
+  year={2021},
+  url={https://ieeexplore.ieee.org/abstract/document/9488896},
+  html={https://ieeexplore.ieee.org/abstract/document/9488896},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+@article{Bandit_RobustImperfectConctext_AAAI_2022,
+  abbr={AAAI},
+  title={Robust Bandit Learning with Imperfect Context},
+  author={Jianyi Yang and Shaolei Ren},
+  abstract={A standard assumption in contextual multi-arm bandit is that the true context is perfectly known before arm selection. Nonetheless, in many practical applications (e.g., cloud resource management), prior to arm selection, the context information can only be acquired by prediction subject to errors or adversarial modification. In this paper, we study a novel contextual bandit setting in which only imperfect context is available for arm selection while the true context is revealed at the end of each round. We propose two robust arm selection algorithms: MaxMinUCB (Maximize Minimum UCB) which maximizes the worst-case reward, and MinWD (Minimize Worst-case Degradation) which minimizes the worst-case regret. Importantly, we analyze the robustness of MaxMinUCB and MinWD by deriving both regret and reward bounds compared to an oracle that knows the true context. Our results show that as time goes on, MaxMinUCB and MinWD both perform as asymptotically well as their optimal counterparts that know the reward function. Finally, we apply MaxMinUCB and MinWD to online edge datacenter selection, and run synthetic simulations to validate our theoretical analysis.},
+  journal={AAAI},
+  month = {},
+  year={2022},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/17267},
+  html={https://ojs.aaai.org/index.php/AAAI/article/view/17267},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {false}
+}
+
+@article{DNN_ObfuNAS_ICCAD_2022,
+  abbr={ICCAD},
+  title={ObfuNAS: A Neural Architecture Search-based DNN Obfuscation Approach},
+  author={Tong Zhou and Shaolei Ren and Xiaolin Xu},
+  abstract={Continual learning faces a crucial challenge of catastrophic forgetting. To address this challenge, experience replay (ER) that maintains a tiny subset of samples from previous tasks has been commonly used. Existing ER works usually focus on refining the learning objective for each task with a static memory construction policy. In this paper, we formulate the dynamic memory construction in ER as a combinatorial optimization problem, which aims at directly minimizing the global loss across all experienced tasks. We first apply three tactics to solve the problem in the offline setting as a starting point. To provide an approximate solution to this problem in the online continual learning setting, we further propose the Global Pseudo-task Simulation (GPS), which mimics future catastrophic forgetting of the current task by permutation. Our empirical results and analyses suggest that the GPS consistently improves accuracy across four commonly used vision benchmarks. We have also shown that our GPS can serve as the unified framework for integrating various memory construction policies in existing ER works.},
+  journal={ICCAD},
+  month = {},
+  year={2022},
+  url={https://arxiv.org/abs/2208.08569},
+  html={https://dl.acm.org/doi/abs/10.1145/3508352.3549429},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {21to25},
+  show = {false}
+}
+
+@article{DNN_HDLock_DAC_2022,
+  abbr={DAC},
+  title={HDLock: Exploiting Privileged Encoding to Protect Hyperdimensional Computing Models against IP Stealing},
+  author={Shijin Duan and Shaolei Ren and Xiaolin Xu},
+  abstract={Hyperdimensional Computing (HDC) is facing infringement issues due to straightforward computations. This work, for the first time, raises a critical vulnerability of HDC, an attacker can reverse engineer the entire model, only requiring the unindexed hypervector memory. To mitigate this attack, we propose a defense strategy, namely HDLock, which significantly increases the reasoning cost of encoding. Specifically, HDLock adds extra feature hypervector combination and permutation in the encoding module. Compared to the standard HDC model, a two-layer-key HDLock can increase the adversarial reasoning complexity by 10 order of magnitudes without inference accuracy loss, with only 21% latency overhead.},
+  journal={DAC},
+  month = {},
+  year={2022},
+  url={https://arxiv.org/abs/2203.09681},
+  html={https://dl.acm.org/doi/abs/10.1145/3489517.3530515},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {21to25},
+  show = {false}
+}
+
+@article{LeHDC_DAC_2022,
+  abbr={DAC},
+  title={LeHDC: Learning-Based Hyperdimensional Computing Classifier},
+  author={Shijin Duan and Yejia Liu and Shaolei Ren and Xiaolin Xu},
+  abstract={Thanks to the tiny storage and efficient execution, hyperdimensional Computing (HDC) is emerging as a lightweight learning framework on resource-constrained hardware. Nonetheless, the existing HDC training relies on various heuristic methods, significantly limiting their inference accuracy. In this paper, we propose a new HDC framework, called LeHDC, which leverages a principled learning approach to improve the model accuracy. Concretely, LeHDC maps the existing HDC framework into an equivalent Binary Neural Network architecture, and employs a corresponding training strategy to minimize the training loss. Experimental validation shows that LeHDC outperforms previous HDC training strategies and can improve on average the inference accuracy over 15% compared to the baseline HDC.},
+  journal={DAC},
+  month = {},
+  year={2022},
+  url={https://arxiv.org/abs/2203.09680},
+  html={https://dl.acm.org/doi/abs/10.1145/3489517.3530593},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {21to25},
+  show = {false}
+}
+
+
+@article{DNN_SemiDecoupled_SoftwareHardware_Optimization_tinyML_2022,
+  abbr={tinyML},
+  title={A Semi-Decoupled Approach to Fast and Optimal Hardware-Software Co-Design of Neural Accelerators},
+  author={Bingqian Lu and Zheyu Yan and Yiyu Shi and Shaolei Ren},
+  abstract={In view of the performance limitations of fully-decoupled designs for neural architectures and accelerators, hardware-software co-design has been emerging to fully reap the benefits of flexible design spaces and optimize neural network performance. Nonetheless, such co-design also enlarges the total search space to practically infinity and presents substantial challenges. While the prior studies have been focusing on improving the search efficiency (e.g., via reinforcement learning), they commonly rely on co-searches over the entire architecture-accelerator design space. In this paper, we propose a \emph{semi}-decoupled approach to reduce the size of the total design space by orders of magnitude, yet without losing optimality. We first perform neural architecture search to obtain a small set of optimal architectures for one accelerator candidate. Importantly, this is also the set of (close-to-)optimal architectures for other accelerator designs based on the property that neural architectures' ranking orders in terms of inference latency and energy consumption on different accelerator designs are highly similar. Then, instead of considering all the possible architectures, we optimize the accelerator design only in combination with this small set of architectures, thus significantly reducing the total search cost. We validate our approach by conducting experiments on various architecture spaces for accelerator designs with different dataflows. Our results highlight that we can obtain the optimal design by only navigating over the reduced search space.},
+  journal={tinyML},
+  month = {},
+  year={2022},
+  url={https://arxiv.org/abs/2203.13921},
+  html={https://arxiv.org/abs/2203.13921},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {21to25},
+  show = {false}
+}
+
+
+@article{LDC_tinyML_2022,
+  abbr={tinyML},
+  title={A Brain-Inspired Low-Dimensional Computing Classifier for Inference on Tiny Devices},
+  author={Shijin Duan and Xiaolin Xu and Shaolei Ren},
+  abstract={By mimicking brain-like cognition and exploiting parallelism, hyperdimensional computing (HDC) classifiers have been emerging as a lightweight framework to achieve efficient on-device inference. Nonetheless, they have two fundamental drawbacks, heuristic training process and ultra-high dimension, which result in sub-optimal inference accuracy and large model sizes beyond the capability of tiny devices with stringent resource constraints. In this paper, we address these fundamental drawbacks and propose a low-dimensional computing (LDC) alternative. Specifically, by mapping our LDC classifier into an equivalent neural network, we optimize our model using a principled training approach. Most importantly, we can improve the inference accuracy while successfully reducing the ultra-high dimension of existing HDC models by orders of magnitude (e.g., 8000 vs. 4/64). We run experiments to evaluate our LDC classifier by considering different datasets for inference on tiny devices, and also implement different models on an FPGA platform for acceleration. The results highlight that our LDC classifier offers an overwhelming advantage over the existing brain-inspired HDC models and is particularly suitable for inference on tiny devices.},
+  journal={tinyML},
+  year={2022},
+  month = {},
+  url={https://arxiv.org/abs/2203.04894},
+  html={https://arxiv.org/abs/2203.04894},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {21to25},
+  show = {false}
+}
+
+
+@article{DNN_QoE_OnDevice_TC_2022,
+  abbr={IoT},
+  title={Improving QoE of Deep Neural Network Inference on Edge Devices: A Bandit Approach},
+  author={Lixing Chen and Shaolei Ren and Jie Xu},
+  abstract={Edge devices, including, in particular, mobile devices, have been emerging as an increasingly more important platform for deep neural network (DNN) inference. Typically, multiple lightweight DNN models generated using different architectures and/or compression schemes can fit into a device, thus selecting an optimal one is crucial in order to maximize the users’ Quality of Experience (QoE) for edge inference. The existing approaches to device-aware DNN optimization are usually time consuming and not scalable in view of extremely diverse edge devices. More importantly, they focus on optimizing standard performance metrics (e.g., accuracy and latency), which may not translate into improvement of the users’ actual subjective QoE. In this article, we propose a novel automated and user-centric DNN selection engine, called Aquaman , which keeps users into a closed loop and leverages their QoE feedback to guide DNN selection decisions. The core of Aquaman is a neural network-based QoE predictor, which is continuously updated online. Additionally, we use neural bandit learning to balance exploitation and exploration, with a provably efficient QoE performance. Finally, we evaluate Aquaman on a 15-user experimental study as well as synthetic simulations, demonstrating the effectiveness of Aquaman.},
+  journal={IEEE Internet of Things Journal},
+  volume = {9},
+  number = {21},
+  pages ={21409 - 21420},
+  month = {November},
+  year={2022},
+  url={https://ieeexplore.ieee.org/abstract/document/9795664},
+  html={https://ieeexplore.ieee.org/abstract/document/9795664},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+@article{DataCenter_ThermalAttacks_HPCA_2021,
+  abbr={HPCA},
+  title={Heat Behind the Meter: A Hidden Threat of Thermal Attacks in Edge Colocation Data Centers},
+  author={Zhihui Shao and Mohammad A. Islam and Shaolei Ren},
+  abstract={The widespread adoption of Internet of Things and latency-critical applications has fueled the burgeoning development of edge colocation data centers (a.k. a., edge colocation) — small-scale data centers in distributed locations. In an edge colocation, multiple entities/tenants house their own physical servers together, sharing the power and cooling infrastructures for cost efficiency and scalability. In this paper, we discover that the sharing of cooling systems also exposes edge colocations’ potential vulnerabilities to cooling load injection attacks (called thermal attacks) by an attacker which, if left at large, may create thermal emergencies and even trigger system outages. Importantly, thermal attacks can be launched by leveraging the emerging architecture of built-in batteries integrated with servers that can conceal the attacker’s actual server power (or cooling load). We consider both one-shot attacks (which aim at creating system outages) and repeated attacks (which aim at causing frequent thermal emergencies). For repeated attacks, we present a foresighted attack strategy which, using reinforcement learning, learns on the fly a good timing for attacks based on the battery state and benign tenants’ load. We also combine prototype experiments with simulations to validate our attacks and show that, for a small 8kW edge colocation, an attacker can potentially cause significant losses. Finally, we suggest effective countermeasures to the potential threat of thermal attacks.},
+  journal={HPCA},
+  year={2021},
+  month = {},
+  url={https://ieeexplore.ieee.org/abstract/document/9407172},
+  html={https://ieeexplore.ieee.org/abstract/document/9407172},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {21to25},
+  show = {true}
+}
+
+@article{DataCenter_Sprinting_DeepPM_Cloud_2021,
+  abbr={CLOUD},
+  title={DeepPM: Efficient Power Management in Edge Data Centers using Energy Storage},
+  author={Zhihui Shao and Mohammad A. Islam and Shaolei Ren},
+  abstract={With the rapid development of the Internet of Things (IoT), computational workloads are gradually moving toward the internet edge for low latency. Due to significant workload fluctuations, edge data centers built in distributed locations suffer from resource underutilization and requires capacity underprovisioning to avoid wasting capital investment. The workload fluctuations, however, also make edge data centers more suitable for battery-assisted power management to counter the performance impact due to underprovisioning. In particular, the workload fluctuations allow the battery to be frequently recharged and made available for temporary capacity boosts. But, using batteries can overload the data center cooling system which is designed with a matching capacity of the power system. In this paper, we design a novel power management solution, DeepPM, that exploits the UPS battery and cold air inside the edge data center as energy storage to boost the performance. DeepPM uses deep reinforcement learning (DRL) to learn the data center thermal behavior online in a model-free manner and uses it on-the-fly to determine power allocation for optimum latency performance without overheating the data center. Our evaluation shows that DeepPM can improve latency performance by more than 50% compared to a power capping baseline while the server inlet temperature remains within safe operating limits (e.g., 32°C).},
+  journal={Cloud},
+  year={2021},
+  month = {},
+  url={https://ieeexplore.ieee.org/abstract/document/9284233},
+  html={https://ieeexplore.ieee.org/abstract/document/9284233},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {21to25},
+  show = {false}
+}
+
+@article{DataCenter_DRL_MixedUseBuilding_TSUSC_2021,
+  abbr={TSUSC},
+  title={Deep Reinforcement Learning for Joint Datacenter and HVAC Load Control in Distributed Mixed-Use Buildings},
+  author={Tianshu Wei and Shaolei Ren and Qi Zhu},
+  abstract={The majority of today's power-hungry datacenters are physically co-located with office rooms in mixed-use buildings (MUBs). The heating, ventilation, and air conditioning (HVAC) system within each MUB is often shared or partially-shared between datacenter rooms and office zones, for removing the heat generated by computing equipment and maintaining desired room temperature for building tenants. To effectively reduce the total energy cost of MUBs, it is important to leverage the scheduling flexibility in both the HVAC system and the datacenter workload. In this work, we formulate both HVAC control and datacenter workload scheduling as a Markov decision process (MDP), and propose a deep reinforcement learning (DRL) based algorithm for minimizing the total energy cost while maintaining desired room temperature and meeting datacenter workload deadline constraints. Moreover, we also develop a heuristic DRL-based algorithm to enable interactive workload allocation among geographically distributed MUBs for further energy reduction. The experiment results demonstrate that our regular DRL-based algorithm can achieve up to 26.9 percent cost reduction for a single MUB, when compared with a baseline strategy. Our heuristic DRL-based algorithm can reduce the total energy cost by an additional 5.5 percent, when intelligently allocating interactive workload for multiple geographically distributed MUBs.},
+  journal={IEEE Transactions on Sustainable Computing},
+  volume = {6},
+  number = {3},
+  pages ={370 - 384},
+  month = {July-Sept.},
+  year={2021},
+  url={https://www.computer.org/csdl/journal/su/2021/03/08691496/1j4FFN5tvHi},
+  html={https://www.computer.org/csdl/journal/su/2021/03/08691496/1j4FFN5tvHi},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {21to25},
+  show = {true}
+}
+
+
+@article{SwitchingNoise_Filtration_SIGMETRICS_2020,
+  abbr={SIGMETRICS},
+  title={Your Noise, My Signal: Exploiting Switching Noise for Stealthy Data Exfiltration from Desktop Computers},
+  author={Zhihui Shao and Mohammad A. Islam and Shaolei Ren},
+  abstract={Attacks based on power analysis have been long existing and studied, with some recent works focused on data exfiltration from victim systems without using conventional communications (e.g., WiFi). Nonetheless, prior works typically rely on intrusive direct power measurement, either by implanting meters in the power outlet or tapping into the power cable, thus jeopardizing the stealthiness of attacks. In this paper, we propose NoDE (Noise for Data Exfiltration), a new system for stealthy data exfiltration from enterprise desktop computers. Specifically, NoDE achieves data exfiltration over a building's power network by exploiting high-frequency voltage ripples (i.e., switching noises) generated by power factor correction circuits built into today's computers. Located at a distance and even from a different room, the receiver can non-intrusively measure the voltage of a power outlet to capture the high-frequency switching noises for online information decoding without supervised training/learning. To evaluate NoDE, we run experiments on seven different computers from top-vendors and using top brand power supply units. Our results show that for a single transmitter, NoDE achieves a rate of up to 28.48 bits/second with a distance of 90 feet (27.4 meters) without the line of sight, demonstrating a practically stealthy threat. Based on the orthogonality of switching noise frequencies of different computers, we also demonstrate simultaneous data exfiltration from four computers using only one receiver. Finally, we present a few possible defenses, such as installing noise filters, and discuss their limitations.},
+  journal={SIGMETRICS},
+  year={2020},
+  month = {},
+  url={https://arxiv.org/abs/2001.06729},
+  html={https://dl.acm.org/doi/abs/10.1145/3379473},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+
+@article{GreenColo_TCC_2020,
+  abbr={TCC},
+  title={A Carbon-Aware Incentive Mechanism for Greening Colocation Data Centers},
+  author={Mohammad A. Islam and Hasan Mahmud and Shaolei Ren and Xiaorui Wang},
+  abstract={The massive energy consumption of data centers worldwide has resulted in a large carbon footprint, raising serious concerns to sustainable IT initiatives and attracting a great amount of research attention. Nonetheless, the current efforts to date, despite encouraging, have been primarily centered around owner-operated data centers (e.g., Google data center), leaving out another major segment of data center industry-colocation data centers-much less explored. As a major hindrance to carbon efficiency desired by the operator, colocation suffers from “split incentive”: tenants may not be willing to manage their servers for carbon efficiency. In this paper, we aim at minimizing the carbon footprint of geo-distributed colocation data centers, while ensuring that the operator's cost meets a long-term budget constraint. We overcome the “split incentive” hurdle by devising a novel online carbon-aware incentive mechanism, called GreenColo, in which tenants voluntarily bid for energy reduction at self-determined prices and will receive financial rewards if their bids are accepted at runtime. Using trace based simulation we show that GreenColo results in a carbon footprint fairly close (23 versus 18 percent) to the optimal offline solution with future information, while being able to satisfy the colocation operator's long-term budget constraint. We demonstrate the effectiveness of GreenColo in practical scenarios via both simulation studies and scaled-down prototype experiments. Our results show that GreenColo can reduce the carbon footprint by up to 24 percent without incurring any additional cost for the colocation operator (compared to the no-incentive baseline case), while tenants receive financial rewards for “free” without violating service level agreement.},
+  journal = {IEEE Transactions on Cloud Computing},
+  volume = {8},
+  number = {1},
+  pages ={4 - 16},
+  month = {Jan.-March},
+  year={2020},
+  url={https://ieeexplore.ieee.org/abstract/document/8086181},
+  html={https://ieeexplore.ieee.org/abstract/document/8086181},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {16to20},
+  show = {true}
+}
+
+@article{DataCenters_FairPowerCapping_TCC_2020,
+  abbr={TCC},
+  title={Fair Online Power Capping for Emergency Handling in Multi-Tenant Cloud Data Centers},
+  author={Qihang Sun and Shaolei Ren and Chuan Wu},
+  abstract={In view of the high capital expense for scaling up power capacity to meet the escalating demand, maximizing the utilization of built capacity has become a top priority for multi-tenant data center operators, where many cloud providers house their physical servers. The traditional power provisioning guarantees a high availability, but is very costly and results in a significant capacity under-utilization. On the other hand, power oversubscription (i.e., deploying more servers than what the capacity allows) improves utilization but offers no availability guarantees due to the necessity of power reduction to handle the resulting power emergencies. Given these limitations, we propose a novel hybrid power provisioning approach, called HyPP, which provides a combination of two different power availabilities to tenants: capacity with a very high availability (100 percent or nearly 100 percent), plus additional capacity with a medium availability that may be unavailable for up to a certain amount during each billing period. For HyPP, we design an online algorithm for the operator to coordinate tenants' power reduction at runtime when the tenants' aggregate power demand exceeds the power capacities. Our algorithm aims at achieving long-term fairness in tenants' power reduction (defined as the ratio of total actual power reduction by a tenant to its contracted reduction budget over a billing period). We analyze the theoretical performance of our online algorithm and derive a good competitive ratio in terms of fairness compared to the offline optimum. We also validate our algorithm through simulations under realistic settings.},
+  journal = {IEEE Transactions on Cloud Computing},
+  volume = {8},
+  number = {1},
+  pages ={152 - 166},
+  month = {Jan.-March},
+  year={2020},
+  url={https://ieeexplore.ieee.org/abstract/document/8066316},
+  html={https://ieeexplore.ieee.org/abstract/document/8066316},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+@article{DataCenter_EnergyWater_Geo_MixedUseBuilding_TSG_2019,
+  abbr={TSG},
+  title={Joint Energy Scheduling and Water Saving in Geo-Distributed Mixed-Use Buildings},
+  author={Chuan Pham and Nguyen H Tran and Shaolei Ren and Choong Seon Hong and Kim Khoa Nguyen and Mohamed Cheriet},
+  abstract={Coordinated approaches between datacenter and non-datacenter loads in buildings to achieve energy efficiency have been widely studied in recent years. However, the coordination-enabled mechanisms still leave much room to be optimized for the following reasons. First, in the new trend of cloud computing networks, datacenters are pushed to the edge of networks to reduce latency (they are called edge datacenters). Such datacenters are often deployed in geographically distributed buildings and collocated with offices in terms of sharing building infrastructure; such buildings are called geo-distributed mixeduse buildings (MUBs). That scenario has not been well addressed in terms of energy sustainability requirements overall in the buildings; the requirements are imposed either by mandatory government orders or by LEED certification. Second, one critical issue of datacenters is water saving, which is rarely associated with energy efficiency, even though every kilowatt of energy consumption can reflect exactly an amount of water use in datacenters. Therefore, in this paper, we aim to find a solution for joint energy scheduling and water saving problem (PJEW) in a coordinated manner between MUBs. The solution is designed to schedule workloads by coupling edge datacenters collocated in buildings as well as to control energy and water usage to minimize the system cost caused by reducing loads. We advocate the model predictive control to schedule the whole system in a time horizon. Multiple simulation scenarios are evaluated to show the efficiency of our proposed methods compared to conventional approaches. The results reveal that our mechanism outperforms the uncoordinated methods and achieves a nearly optimal solution.},
+  journal={IEEE Transactions on Smart Grid},
+  volume = {10},
+  number = {5},
+  pages ={5345 - 5359},
+  month = {September},
+  year={2019},
+  url={https://ieeexplore.ieee.org/abstract/document/8538879},
+  html={https://ieeexplore.ieee.org/abstract/document/8538879},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+
+
+
+
+@article{DataCenter_PowerAttacks_Noise_SIGMETRICS_2018,
+  abbr={SIGMETRICS},
+  title={Why Some Like It Loud: Timing Power Attacks in Multi-tenant Data Centers Using an Acoustic Side Channel},
+  author={Mohammad A. Islam and Luting Yang and Kiran Ranganath and Shaolei Ren},
+  abstract={The common practice of power infrastructure oversubscription in data centers exposes dangerous vulnerabilities to well-timed power attacks (i.e., maliciously timed power loads to overload the infrastructure capacity), possibly creating outages and resulting in multimillion-dollar losses. In this paper, we focus on the emerging threat of power attacks in a multi-tenant data center, where a malicious tenant (i.e., attacker) aims at compromising the data center availability through power attacks. We discover a novel acoustic side channel resulting from servers' cooling fan noise, which can help the attacker time power attacks at the moments when benign tenants' power usage is high. Concretely, we exploit the acoustic side channel by: (1) employing a high-pass filter to filter out the air conditioner's noise; (2) applying non-negative matrix factorization with sparsity constraint to demix the received aggregate noise and detect periods of high power usage by benign tenants; and (3) designing a state machine to guide power attacks. We run experiments in a practical data center environment as well as simulation studies, and demonstrate that the acoustic side channel can assist the attacker with detecting more than 50% of all attack opportunities, representing state-of-the-art timing accuracy.},
+  journal={SIGMETRICS},
+  year={2018},
+  month = {},
+  url={https://dl.acm.org/doi/abs/10.1145/3179409},
+  html={https://dl.acm.org/doi/abs/10.1145/3179409},
+  bibtex_show = {true},
+  selected={true},
+  topic = {security},
+  timerange = {16to20},
+  show = {true}
+}
+ 
+
+@article{DataCenter_PowerAttacks_Voltage_CCS_2018,
+  abbr={CCS},
+  title={Ohm's Law in Data Centers: A Voltage Side Channel for Timing Power Attacks},
+  author={Mohammad A. Islam and Shaolei Ren},
+  abstract={Maliciously-injected power load, a.k.a. power attack, has recently surfaced as a new egregious attack vector for dangerously compromising the data center availability. This paper focuses on the emerging threat of power attacks in a multi-tenant colocation data center, an important type of data center where multiple tenants house their own servers and share the power distribution system. Concretely, we discover a novel physical side channel --- a voltage side channel --- which leaks the benign tenants' power usage information at runtime and helps an attacker precisely time its power attacks. The key idea we exploit is that, due to the Ohm's Law, the high-frequency switching operation (40~100kHz) of the power factor correction circuit universally built in today's server power supply units creates voltage ripples in the data center power lines. Importantly, without overlapping the grid voltage in the frequency domain, the voltage ripple signals can be easily sensed by the attacker to track the benign tenants' runtime power usage and precisely time its power attacks. We evaluate the timing accuracy of the voltage side channel in a real data center prototype, demonstrating that the attacker can extract benign tenants' power pattern with a great accuracy (correlation coefficient = 0.90+) and utilize 64% of all the attack opportunities without launching attacks randomly or consecutively. Finally, we highlight a few possible defense strategies and extend our study to more complex three-phase power distribution systems used in large multi-tenant data centers.},
+  journal={CCS},
+  year={2018},
+  month = {},
+  url={https://dl.acm.org/doi/abs/10.1145/3243734.3243744},
+  html={https://dl.acm.org/doi/abs/10.1145/3243734.3243744},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {16to20},
+  show = {true}
+}
+
+@article{DataCenter_SpotCapacity_HPCA_2018,
+  abbr={HPCA},
+  title={A Spot Capacity Market to Increase Power Infrastructure Utilization in Multi-tenant Data Centers},
+  author={Mohammad A. Islam and Xiaoqi Ren and Shaolei Ren and Adam Wierman},
+  abstract={Despite the common practice of oversubscription, power capacity is largely under-utilized in data centers. A significant factor driving this under-utilization is fluctuation of the aggregate power demand, resulting in unused “spot (power) capacity”. In this paper, we tap into spot capacity for improving power infrastructure utilization in multi-tenant data centers, an important but under-explored type of data center where multiple tenants house their own physical servers. We propose a novel market, called SpotDC, to allocate spot capacity to tenants on demand. Specifically, SpotDC extracts tenants' racklevel spot capacity demand through an elastic demand function, based on which the operator sets the market price for spot capacity allocation. We evaluate SpotDC using both testbed experiments and simulations, demonstrating that SpotDC improves power infrastructure utilization and creates a “win-win” situation: the data center operator increases its profit (by nearly 10%), while tenants improve their performance (by 1.2-1.8x on average compared to the no spot capacity case, yet at a marginal cost).},
+  journal={HPCA},
+  month = {},
+  year={2018},
+  url={https://ieeexplore.ieee.org/document/8327054},
+  html={https://ieeexplore.ieee.org/document/8327054},
+  bibtex_show = {true},
+  selected={true},
+  topic = {green},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+
+
+@article{DataCenter_Water_SpatialTemporal_TCC_2018,
+  abbr={TCC},
+  title={Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers},
+  author={Mohammad A. Islam and Kishwar Ahmed and Hong Xu and Nguyen H. Tran and Gang Quan and Shaolei Ren},
+  abstract={As the critical infrastructure for supporting Internet and cloud computing services, massive geo-distributed data centers are notorious for their huge electricity appetites and carbon footprints. Nonetheless, a lesser-known fact is that data centers are also “thirsty”: to operate data centers, millions of gallons of water are required for cooling and electricity production. The existing water-saving techniques primarily focus on improved “engineering” (e.g., upgrading to air economizer cooling, diverting recycled/sea water instead of potable water) and do not apply to all data centers due to high upfront capital costs and/or location restrictions. In this paper, we propose a software-based approach towards water conservation by exploiting the inherent spatio-temporal diversity of water efficiency across geo-distributed data centers. Specifically, we propose a batch job scheduling algorithm, called WACE (minimization of WAter, Carbon and Electricity cost), which dynamically adjusts geographic load balancing and resource provisioning to minimize the water consumption along with carbon emission and electricity cost while satisfying average delay performance requirement. WACE can be implemented online without foreseeing the far future information and yields a total cost (incorporating electricity cost, water consumption and carbon emission) that is provably close to the optimal algorithm with lookahead information. Finally, we validate WACE through a trace-based simulation study and show that WACE outperforms state-of-the-art benchmarks: 25 percent water saving while incurring an acceptable delay increase. We also extend WACE to joint scheduling of batch workloads and delay-sensitive interactive workloads for further water footprint reduction in geo-distributed data centers.},
+  journal={IEEE Transactions on Cloud Computing},
+  volume = {6},
+  number = {3},
+  pages ={734 - 746},
+  month = {July-Sept.},
+  year={2018},
+  url={https://ieeexplore.ieee.org/abstract/document/7420641},
+  html={https://ieeexplore.ieee.org/abstract/document/7420641},
+  bibtex_show = {true},
+  selected={true},
+  topic = {green},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+
+@article{DataCenter_HeatRecovery_TOMPECS_2018,
+  abbr={TOMPECS},
+  title={CloudHeat: An Efficient Online Market Mechanism for Datacenter Heat Harvesting},
+  author={Shutong Chen and Zhi Zhou and Fangming Liu and Zongpeng Li and Shaolei Ren},
+  abstract={Datacenters are major energy consumers and dissipate an enormous amount of waste heat. Simple outdoor discharging of datacenter heat is energy-consuming and environmentally unfriendly. By harvesting datacenter waste heat and selling to the district heating system (DHS), both energy cost compensation and environment protection can be achieved. To realize such benefits in practice, an efficient market mechanism is required to incentivize the participation of datacenters. This work proposes CloudHeat, an online reverse auction mechanism for the DHS to solicit heat bids from datacenters. To minimize long-term social operational cost of the DHS and the datacenters, we apply a RFHC approach for decomposing the long-term problem into a series of one-round auctions, guaranteeing a small loss in competitive ratio. The one-round optimization is still NP-hard, and we employ a randomized auction framework to simultaneously guarantee truthfulness, polynomial running time, and an approximation ratio of 2. The performance of CloudHeat is validated through theoretical analysis and trace-driven simulation studies.},
+  journal={ACM Transactions on Modeling and Performance Evaluation of Computing Systems},
+  volume = {3},
+  number = {3},
+  pages ={1 - 31},
+  month = {June},
+  year={2018},
+  url={https://dl.acm.org/doi/abs/10.1145/3199675},
+  html={https://dl.acm.org/doi/abs/10.1145/3199675},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {16to20},
+  show = {true}
+}
+
+@article{TemperatureConstrained_TPDS_2018,
+  abbr={TPDS},
+  title={M-Oscillating: Performance Maximization on Temperature-Constrained Multi-Core Processors},
+  author={Shi Sha and Wujie Wen and Shaolei Ren and Gang Quan},
+  abstract={The ever-increasing computational demand drives modern electronic devices to integrate more processing elements for pursuing higher computing performance. However, the resulting soaring power density and potential thermal crisis constrain the system performance under a maximally allowed temperature. This paper analytically studies the throughput maximization problem of multi-core platforms under the peak temperature constraints. To take advantage of thermal heterogeneity of different cores for performance improvement, we propose to run each core with multiple speed levels and develop a schedule based on two novel concepts, i.e., the step-up schedule and the m-Oscillating schedule, for multi-core platforms. The proposed methodology can ensure the peak temperature guarantee with a significant improvement in computing throughput up to 89 percent, with an average improvement of 11 percent. Meanwhile, the computational time reduces orders of magnitude compared to the traditional exhaustive search-based approach.},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume = {29},
+  number = {11},
+  pages ={2528 - 2539},
+  month = {November},
+  year={2018},
+  url={https://ieeexplore.ieee.org/abstract/document/8359006},
+  html={https://ieeexplore.ieee.org/abstract/document/8359006},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {16to20},
+  show = {false}
+}
+
+@article{EdgeComputing_ServicePlacement_Bandit_TWC_2018,
+  abbr={TWC},
+  title={Spatio–Temporal Edge Service Placement: A Bandit Learning Approach},
+  author={Lixing Chen and Jie Xu and Shaolei Ren and Pan Zhou},
+  abstract={Shared edge computing platforms deployed at the radio access network are expected to significantly improve the quality-of-service delivered by application service providers (ASPs) in a flexible and economic way. However, placing edge service in every possible edge site by an ASP is practically infeasible due to the ASP’s prohibitive budget requirement. In this paper, we investigate the edge service placement problem of an ASP under a limited budget, where the ASP dynamically rents computing/storage resources in edge sites to host its applications in close proximity to end users. Since the benefit of placing edge service in a specific site is usually unknown to the ASP a priori , optimal placement decisions must be made while learning this benefit. We pose this problem as a novel combinatorial contextual bandit learning problem. It is “combinatorial” because only a limited number of edge sites can be rented to provide the edge service given the ASP’s budget. It is “contextual” because we utilize user context information to enable finer-grained learning and decision-making. To solve this problem and optimize the edge computing performance, we propose SEEN, a Spatial-temporal Edge sErvice placemeNt algorithm. Furthermore, SEEN is extended to scenarios with overlapping service coverage by incorporating a disjunctively constrained knapsack problem. In both cases, we prove that our algorithm achieves a sublinear regret bound when it is compared with an Oracle algorithm that knows the exact benefit information. Simulations are carried out on a real-world dataset, whose results show that SEEN significantly outperforms benchmark solutions.},
+  journal={IEEE Transactions on Wireless Communications},
+  volume = {17},
+  number = {12},
+  pages ={8388 - 8401},
+  month = {December},
+  year={2018},
+  url={https://ieeexplore.ieee.org/abstract/document/8509631},
+  html={https://ieeexplore.ieee.org/abstract/document/8509631},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+@article{DemandReponse_MixedUseBuilding_TSG_2018,
+  abbr={TSG},
+  title={Incentivizing Energy Reduction for Emergency Demand Response in Multi-Tenant Mixed-Use Buildings},
+  author={Nguyen H. Tran and Chuan Pham and Minh NH Nguyen and Shaolei Ren and Choong Seon Hong},
+  abstract={Emergency demand response (EDR), which is the last line of defense to avoid cascading failures during emergency events, has witnessed numerous crucial participants, including buildings and datacenters (DCs). However, even though the majority of DCs are physically located in mixed-use buildings (MUBs), the existing studies on EDR are non-coordinated approaches that separately focus on either buildings or DCs, hence ignoring that both DCs and non-DC (e.g., office) operations share the same MUB facilities (e.g., electricity supply). Furthermore, even when all MUB tenants (i.e., offices and DCs) are jointly considered, tenants will incur different costs to shed energy for EDR, thereby raising an issue of mis-aligned incentive for their participation. To overcome this non-coordinated energy shedding and mis-aligned incentives, we propose two incentive mechanisms in MUBs, such that the total incurred cost is minimized for energy shedding. The first mechanism, namely MECH-NA, is designed for non-strategic MUB tenants. In MECH-NA, the MUB operator provides a mechanism package, including reward rate and a commitment profile with deviation penalty, based on which the MUB tenants will shed energy to maximize the reward and minimize their energy-shedding and deviation costs. We also design a distributed algorithm to implement MECH-NA that can achieve the minimum MUB cost. The second mechanism, namely MECH-SA, is a VCG-Kelly-based mechanism tailored to handle strategic MUB tenants. In MECH-SA, the operator announces both reward and energy shedding rules, based on which the tenants strategically participate in an bidding game. For this game, we not only show that there exists an efficient Nash equilibrium at which the total MUB cost is achieved, but also design a distributed algorithm to implement MECH-SA. Simulation results show that both MECH-NA and MECH-SA can obtain the optimal MUB cost, which outperforms partially or non-coordinated approaches.},
+  journal = {IEEE Transactions on Smart Grid},
+  volume = {9},
+  number = {4},
+  pages ={3701 - 3715},
+  month = {July},
+  year={2018},
+  url={https://ieeexplore.ieee.org/abstract/document/7782390},
+  html={https://ieeexplore.ieee.org/abstract/document/7782390},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {16to20},
+  show = {false}
+}
+
+
+
+@article{Fair_BVatterySharing_TWC_2018,
+  abbr={TWC},
+  title={Fair Sharing of Backup Power Supply in Multi-Operator Wireless Cellular Towers},
+  author={Minh NH Nguyen and Nguyen H Tran and Mohammad A. Islam and Chuan Pham and Shaolei Ren and Choong Seon Hong},
+  abstract={Keeping wireless base stations operating continually and providing uninterrupted communications services can save billions of dollars as well as human lives during natural disasters and/or electricity outages. Toward this end, wireless operators need to install backup power supplies whose capacity is sufficient to support their peak power demand, thus incurring a significant capital expense. Hence, pooling together backup power supplies and sharing it among co-located wireless operators can effectively reduce the capital expense, as the backup power capacity can be sized based on the aggregate demand of co-located operators instead of individual demand. Turning this vision into reality, however, faces a new challenge: how to fairly share the backup power supply? In this paper, we propose fair sharing of backup power supply by multiple wireless operators based on the Nash bargaining solution (NBS). In addition, we integrate our analysis with multiple time slots for emergency cases in which the study the backup energy sharing based on model predictive control and NBS subject to an energy capacity constraint regarding future service availability. Our simulations demonstrate that sharing backup power/energy improves the communications service quality with lower cost and consumes less base station power than the non-sharing approach.},
+  journal = {IEEE Transactions on Wireless Communications},
+  volume = {17},
+  number = {3},
+  pages ={2080 - 2093},
+  month = {March},
+  year={2018},
+  url={https://ieeexplore.ieee.org/abstract/document/8247284},
+  html={https://ieeexplore.ieee.org/abstract/document/8247284},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+@article{DataCenter_PowerAttacks_Thermal_CCS_2017,
+  abbr={CCS},
+  title={Exploiting a Thermal Side Channel for Power Attacks in Multi-Tenant Data Centers},
+  author={Mohammad A. Islam and Shaolei Ren  and Adam Wierman},
+  abstract={The power capacity of multi-tenant data centers is typically oversubscribed in order to increase the utilization of expensive power infrastructure. This practice can create dangerous situations and compromise data center availability if the designed power capacity is exceeded. This paper demonstrates that current safeguards are vulnerable to well-timed power attacks launched by malicious tenants (i.e., attackers). Further, we demonstrate that there is a physical side channel --- a thermal side channel due to hot air recirculation --- that contains information about the benign tenants' runtime power usage and can enable a malicious tenant to time power attacks effectively. In particular, we design a state-augmented Kalman filter to extract this information from the side channel and guide an attacker to use its maximum power at moments that coincide with the benign tenants' high power demand, thus overloading the shared power capacity. Our experimental results show that an attacker can capture 54% of all attack opportunities, significantly compromising the data center availability. Finally, we discuss a set of possible defense strategies to safeguard the data center infrastructure against power attacks.},
+  journal={CCS},
+  year={2017},
+  url={https://dl.acm.org/doi/abs/10.1145/3133956.3133994},
+  html={https://dl.acm.org/doi/abs/10.1145/3133956.3133994},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+@article{DataCenter_Water_GLB_TCC_2017,
+  abbr={TCC},
+  title={Water-Constrained Geographic Load Balancing in Data Centers},
+  author={Mohammad A. Islam and Shaolei Ren and Gang Quan and Muhammad Z. Shakir},
+  abstract={Spreading across many parts of the world and presently hard striking California, extended droughts could even potentially threaten reliable electricity production and local water supplies, both of which are critical for data center operation. While numerous efforts have been dedicated to reducing data centers' energy consumption, the enormity of data centers' water footprints is largely neglected and, if still left unchecked, may handicap service availability during droughts. In this paper, we propose a water-aware workload management algorithm, called WATCH (WATer-constrained workload sCHeduling in data centers), which caps data centers' long-term water consumption by exploiting spatio-temporal diversities of water efficiency and dynamically dispatching workloads among distributed data centers. We demonstrate the effectiveness of WATCH both analytically and empirically using simulations: based on only online information, WATCH can result in a provably-low operational cost while successfully capping water consumption under a desired level. Our results also show that WATCH can cut water consumption by 20 percent while only incurring a negligible cost increase even compared to state-of-the-art cost-minimizing but water-oblivious solution. Sensitivity studies are conducted to validate WATCH under various settings.},
+  journal = {IEEE Transactions on Cloud Computing},
+  volume = {5},
+  number = {2},
+  pages ={208 - 220},
+  month = {April-June},
+  year={2017},
+  url={https://ieeexplore.ieee.org/abstract/document/7152842},
+  html={https://ieeexplore.ieee.org/abstract/document/7152842},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {16to20},
+  show = {false}
+}
+
+
+
+@article{EdgeComputing_LearningOffloading_TCCN_2017,
+  abbr={TCCN},
+  title={Online Learning for Offloading and Autoscaling in Energy Harvesting Mobile Edge Computing},
+  author={Jie Xu and Lixing Chen and Shaolei Ren},
+  abstract={Mobile edge computing (also known as fog computing) has recently emerged to enable in-situ processing of delay-sensitive applications at the edge of mobile networks. Providing grid power supply in support of mobile edge computing, however, is costly and even infeasible (in certain rugged or under-developed areas), thus mandating on-site renewable energy as a major or even sole power supply in increasingly many scenarios. Nonetheless, the high intermittency and unpredictability of renewable energy make it very challenging to deliver a high quality of service to users in energy harvesting mobile edge computing systems. In this paper, we address the challenge of incorporating renewables into mobile edge computing and propose an efficient reinforcement learning-based resource management algorithm, which learns on-the-fly the optimal policy of dynamic workload offloading (to the centralized cloud) and edge server provisioning to minimize the long-term system cost (including both service delay and operational cost). Our online learning algorithm uses a decomposition of the (offline) value iteration and (online) reinforcement learning, thus achieving a significant improvement of learning rate and run-time performance when compared to standard reinforcement learning algorithms such as Q -learning. We prove the convergence of the proposed algorithm and analytically show that the learned policy has a simple monotone structure amenable to practical implementation. Our simulation results validate the efficacy of our algorithm, which significantly improves the edge computing performance compared to fixed or myopic optimization schemes and conventional reinforcement learning algorithms.},
+  journal = {IEEE Transactions on Cognitive Communications and Networking},
+  volume = {3},
+  number = {3},
+  pages ={361 - 373},
+  month = {September},
+  year={2017},
+  url={https://ieeexplore.ieee.org/abstract/document/7973020},
+  html={https://ieeexplore.ieee.org/abstract/document/7973020},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {16to20},
+  show = {false}
+}
+
+
+
+@article{DataCenter_PowerCapacity_IC_2017,
+  abbr={IC},
+  title={Managing Power Capacity as a First-Class Resource in Multi-Tenant Data Centers},
+  author={Shaolei Ren},
+  abstract={Scaling up power infrastructures to accommodate growing data center demand is very costly and one of the biggest challenges faced by data centers today. In this paper, we propose to leverage market approaches for maximizing power capacity utilization in multi-tenant data centers, a crucial but under-explored type of data centers. Our study transforms the current practice that simply allocates power capacity in a fixed manner, into a dynamic, scalable, and coordinated market-based paradigm. To illustrate our design, we consider power oversubscription and study gracefully handling the occasional power emergencies in oversubscribed multi-tenant data centers. Concretely, we present a market approach, called COOrdinated Power management solution (COOP), which extracts tenants’ power reduction capabilities at runtime and judiciously coordinates tenants’ power reduction at a minimum performance cost.},
+  journal = {IEEE Internet Computing (invited)},
+  month = {June},
+  year={2017},
+  url={https://ieeexplore.ieee.org/document/7950884},
+  html={https://ieeexplore.ieee.org/document/7950884},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+@article{GameTheory_CSUR_2017,
+  abbr={CSUR},
+  title={Game Theory for Cyber Security and Privacy},
+  author={Cuong T. Do and Nguyen H. Tran and Choongseon Hong and Charles A. Kamhoua
+  and Kevin A. Kwiat and Erik Blasch and Shaolei Ren and Niki Pissinou and Sundaraja Sitharama Iyengar},
+  abstract={In this survey, we review the existing game-theoretic approaches for cyber security and privacy issues, categorizing their application into two classes, security and privacy. To show how game theory is utilized in cyberspace security and privacy, we select research regarding three main applications: cyber-physical security, communication security, and privacy. We present game models, features, and solutions of the selected works and describe their advantages and limitations from design to implementation of the defense mechanisms. We also identify some emerging trends and topics for future research. This survey not only demonstrates how to employ game-theoretic approaches to security and privacy but also encourages researchers to employ game theory to establish a comprehensive understanding of emerging security and privacy problems in cyberspace and potential solutions.},
+  journal = {ACM Computing Surveys},
+  volume = {50},
+  number = {2},
+  pages ={1 - 37},
+  month = {May},
+  year={2017},
+  url={https://dl.acm.org/doi/abs/10.1145/3057268},
+  html={https://dl.acm.org/doi/abs/10.1145/3057268},
+  bibtex_show = {true},
+  selected={false},
+  topic = {security},
+  timerange = {16to20},
+  show = {true}
+}
+
+@article{DataCenter_PowerCapping_HPCA_2016,
+  abbr={HPCA},
+  title={A Market Approach for Handling Power Emergencies in Multi-tenant Data Center},
+  author={Mohammad A. Islam and Xiaoqi Ren and Shaolei Ren and Adam Wierman and Xiaorui Wang},
+  abstract={Power oversubscription in data centers may occasionally trigger an emergency when the aggregate power demand exceeds the capacity. Handling such an emergency requires a graceful power capping solution that minimizes the performance loss. In this paper, we study power capping in a multi-tenant data center where the operator supplies power to multiple tenants that manage their own servers. Unlike owner-operated data centers, the operator lacks control over tenants' servers. To address this challenge, we propose a novel market mechanism based on supply function bidding, called COOP, to financially incentivize and coordinate tenants' power reduction for minimizing total performance loss (quantified in performance cost) while satisfying multiple power capping constraints. We build a prototype to show that COOP is efficient in terms of minimizing the total performance cost, even compared to the ideal but infeasible case that assumes the operator has full control over tenants' servers. We also demonstrate that COOP is "win-win", increasing the operator's profit (through oversubscription) and reducing tenants' cost (through financial compensation for their power reduction during emergencies).},
+  journal = {HPCA},
+  month = {},
+  year={2016},
+  url={https://ieeexplore.ieee.org/abstract/document/7446084},
+  html={https://ieeexplore.ieee.org/abstract/document/7446084},
+  bibtex_show = {true},
+  selected={true},
+  topic = {green},
+  timerange = {16to20},
+  show = {true}
+}
+
+@article{DemandReponse_GeoColocation_eEnergy_2016,
+  abbr={e-Energy},
+  title={An Online Incentive Mechanism for Emergency Demand Response in Geo-distributed Colocation Data Centers},
+  author={Qihang Sun and Shaolei Ren and Chuan Wu and Zongpeng Li},
+  abstract={Deferring batch workload in data centers is promising for demand response to enhance the efficiency and reliability of a power grid. Yet operators of multi-tenant colocation data centers still resort to eco-unfriendly diesel generators for demand response, because tenants lack incentives to defer their workloads. This work proposes an online auction mechanism for emergency demand response (EDR) in geo-distributed colocation data centers, which incentivizes tenants to delay and shuffle their workload across multiple data centers by providing monetary rewards. The mechanism, called BatchEDR, decides the tenants' workload deferment/reduction and diesel usage in each data center upon receiving an EDR signal, for cost minimization throughout the entire EDR event, considering that only a limited amount of batch workloads can be deferred throughout EDR as well as across multiple data centers. Without future information, BatchEDR achieves a good competitive ratio compared to an omniscient offline optimal algorithm, while ensuring truthfulness and individual rationality over the auction process. Trace-driven experiments show that BatchEDR outperforms the existing mechanisms and achieves good social cost.},
+  journal = {e-Energy},
+  year={2016},
+  month = {},
+  url={https://dl.acm.org/doi/abs/10.1145/2934328.2934331},
+  html={https://dl.acm.org/doi/abs/10.1145/2934328.2934331},
+  bibtex_show = {true},
+  selected={true},
+  topic = {ai4sustainability},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+
+@article{DataCenter_DemandResponse_GameTheory_TSG_2016,
+  abbr={TSG},
+  title={How Geo-Distributed Data Centers Do Demand Response: A Game-Theoretic Approach},
+  author={Nguyen H. Tran and Dai H. Tran and Shaolei Ren and Zhu Han and Eui-Nam Huh and Choong Seon Hong},
+  abstract={We study the demand response (DR) of geo-distributed data centers (DCs) using smart grid's pricing signals set by local electric utilities. The geo-distributed DCs are suitable candidates for the DR programs due to their huge energy consumption and flexibility to distribute their energy demand across time and location, whereas the price signal is well-known for DR programs to reduce the peak-to-average load ratio. There are two dependencies that make the pricing design difficult: 1) dependency among utilities; and 2) dependency between DCs and their local utilities. Our proposed pricing scheme is constructed based on a two-stage Stackelberg game in which each utility sets a real-time price to maximize its own profit in Stage I and based on these prices, the DCs' service provider minimizes its cost via workload shifting and dynamic server allocation in Stage II. For the first dependency, we show that there exists a unique Nash equilibrium. For the second dependency, we propose an iterative and distributed algorithm that can converge to this equilibrium, where the “right prices” are set for the “right demands.” We also verify our proposal by trace-based simulations, and results show that our pricing scheme significantly outperforms other baseline schemes in terms of flattening the power demand over time and space.},
+  journal = {IEEE Transactions on Smart Grid},
+  volume = {7},
+  number = {2},
+  pages ={937 - 947},
+  month = {March},
+  year={2016},
+  url={https://ieeexplore.ieee.org/abstract/document/7102766},
+  html={https://ieeexplore.ieee.org/abstract/document/7102766},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {16to20},
+  show = {false}
+}
+
+
+@article{DemandReponse_IndividualUtility_SocialWelfare_JSAC_2016,
+  abbr={JSAC},
+  title={Colocation Demand Response: Joint Online Mechanisms for Individual Utility and Social Welfare Maximization},
+  author={Qihang Sun and Chuan Wu and Zongpeng Li and Shaolei Ren},
+  abstract={In this survey, we review the existing game-theoretic approaches for cyber security and privacy issues, categorizing their application into two classes, security and privacy. To show how game theory is utilized in cyberspace security and privacy, we select research regarding three main applications: cyber-physical security, communication security, and privacy. We present game models, features, and solutions of the selected works and describe their advantages and limitations from design to implementation of the defense mechanisms. We also identify some emerging trends and topics for future research. This survey not only demonstrates how to employ game-theoretic approaches to security and privacy but also encourages researchers to employ game theory to establish a comprehensive understanding of emerging security and privacy problems in cyberspace and potential solutions.},
+  journal = {IEEE Journal on Selected Areas in Communications},
+  volume = {34},
+  number = {12},
+  pages ={3978 - 3992},
+  month = {December},
+  year={2016},
+  url={https://ieeexplore.ieee.org/abstract/document/7572161},
+  html={https://ieeexplore.ieee.org/abstract/document/7572161},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {16to20},
+  show = {true}
+}
+
+
+
+
+@article{DataCenter_Colocation_RECO_HPCA_2015,
+  abbr={HPCA},
+  title={Paying to Save: Reducing Cost of Colocation Data Center via Rewards},
+  author={Mohammad A. Islam and Hasan Mahmud and Shaolei Ren and Xiaorui Wang},
+  abstract={Data centers are key participants in demand response programs, including emergency demand response (EDR), where the grid coordinates large electricity consumers for demand reduction in emergency situations to prevent major economic losses. While existing literature concentrates on owner-operated data centers, this work studies EDR in multi-tenant colocation data centers where servers are owned and managed by individual tenants. EDR in colocation data centers is significantly more challenging, due to lack of incentives to reduce energy consumption by tenants who control their servers and are typically on fixed power contracts with the colocation operator. Consequently, to achieve demand reduction goals set by the EDR program, the operator has to rely on the highly expensive and/or environmentally-unfriendly on-site energy backup/generation. To reduce cost and environmental impact, an efficient incentive mechanism is therefore in need, motivating tenants' voluntary energy reduction in case of EDR. This work proposes a novel incentive mechanism, Truth-DR, which leverages a reverse auction to provide monetary remuneration to tenants according to their agreed energy reduction. Truth-DR is computationally efficient, truthful, and achieves 2-approximation in colocation-wide social cost. Trace-driven simulations verify the efficacy of the proposed auction mechanism.},
+  journal = {HPCA},
+  year={2015},
+  month = {},
+  url={https://ieeexplore.ieee.org/abstract/document/7056036},
+  html={https://ieeexplore.ieee.org/abstract/document/7056036},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {before16},
+  show = {true}
+}
+
+@article{DataCenter_EDR_Colocation_INFOCOM_2015,
+  abbr={INFOCOM},
+  title={A Truthful Incentive Mchanism for Emergency Demand Response in Colocation Data Centers},
+  author={Lingquan Zhang and Shaolei Ren and Chuan Wu and Zongpeng Li},
+  abstract={Data centers are key participants in demand response programs, including emergency demand response (EDR), where the grid coordinates large electricity consumers for demand reduction in emergency situations to prevent major economic losses. While existing literature concentrates on owner-operated data centers, this work studies EDR in multi-tenant colocation data centers where servers are owned and managed by individual tenants. EDR in colocation data centers is significantly more challenging, due to lack of incentives to reduce energy consumption by tenants who control their servers and are typically on fixed power contracts with the colocation operator. Consequently, to achieve demand reduction goals set by the EDR program, the operator has to rely on the highly expensive and/or environmentally-unfriendly on-site energy backup/generation. To reduce cost and environmental impact, an efficient incentive mechanism is therefore in need, motivating tenants' voluntary energy reduction in case of EDR. This work proposes a novel incentive mechanism, Truth-DR, which leverages a reverse auction to provide monetary remuneration to tenants according to their agreed energy reduction. Truth-DR is computationally efficient, truthful, and achieves 2-approximation in colocation-wide social cost. Trace-driven simulations verify the efficacy of the proposed auction mechanism.},
+  journal = {INFOCOM},
+  year={2015},
+  month = {},
+  url={https://ieeexplore.ieee.org/abstract/document/7218654},
+  html={https://ieeexplore.ieee.org/abstract/document/7218654},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {before16},
+  show = {true}
+}
+
+
+
+@article{WebSearch_TailLatency_Aggregation_SIGIR_2015,
+  abbr={SIGIR},
+  title={Optimal Aggregation Policy for Reducing Tail Latency of Web Search},
+  author={Jeong-Min Yun and Yuxiong He and Sameh Elnikety and Shaolei Ren},
+  abstract={A web search engine often employs partition-aggregate architecture, where an aggregator propagates a user query to all index serving nodes (ISNs) and collects the responses from them. An aggregation policy determines how long the aggregators wait for the ISNs before returning aggregated results to users, crucially affecting both query latency and quality. Designing an aggregation policy is, however, challenging: Response latency among queries and among ISNs varies significantly, and aggregators lack of knowledge about when ISNs will respond. In this paper, we propose aggregation policies that minimize tail latency of search queries subject to search quality service level agreements (SLAs), combining data-driven offline analysis with online processing. Beginning with a single aggregator, we formally prove the optimality of our policy: It achieves the offline optimal result without knowing future responses of ISNs. We extend our policy for commonly-used hierarchical levels of aggregators and prove its optimality when messaging times between aggregators are known. We also present an empirically-effective policy to address unknown messaging time. We use production traces from a commercial search engine, a commercial advertisement engine, and synthetic workloads to evaluate the aggregation policy. The results show that compared to prior work, the policy reduces tail latency by up to 40% while satisfying same quality SLAs.},
+  journal = {SIGIR},
+  year={2015},
+  month = {},
+  url={https://dl.acm.org/doi/abs/10.1145/2766462.2767708},
+  html={https://dl.acm.org/doi/abs/10.1145/2766462.2767708},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {before16},
+  show = {true}
+}
+
+@article{DemandReponse_Green_Performance_2015,
+  abbr={Performance},
+  title={Greening Multi-tenant Data Center Demand Response},
+  author={Niangjun Chen and Xiaoqi Ren and Shaolei Ren and Adam Wierman},
+  abstract={Data centers have emerged as promising resources for demand response, particularly for emergency demand response (EDR), which saves the power grid from incurring blackouts during emergency situations. However, currently, data centers typically participate in EDR by turning on backup (diesel) generators, which is both expensive and environmentally unfriendly. In this paper, we focus on “greening” demand response in multi-tenant data centers, i.e., colocation data centers, by designing a pricing mechanism through which the data center operator can efficiently extract load reductions from tenants during emergency periods for EDR. In particular, we propose a pricing mechanism for both mandatory and voluntary EDR programs, ColoEDR, that is based on parameterized supply function bidding and provides provably near-optimal efficiency guarantees, both when tenants are price-taking and when they are price-anticipating. In addition to analytic results, we extend the literature on supply function mechanism design, and evaluate ColoEDR using trace-based simulation studies. These validate the efficiency analysis and conclude that the pricing mechanism is both beneficial to the environment and to the data center operator (by decreasing the need for backup diesel generation), while also aiding tenants (by providing payments for load reductions).},
+  journal = {Performance Evaluation},
+  volume = {91},
+  pages ={229-254},
+  month = {September},
+  year={2015},
+  url={https://www.sciencedirect.com/science/article/abs/pii/S0166531615000620},
+  html={https://www.sciencedirect.com/science/article/abs/pii/S0166531615000620},
+  bibtex_show = {true},
+  selected={false},
+  topic = {ai4sustainability},
+  timerange = {before16},
+  show = {true}
+}
+
+@article{DataCenter_CarbonNeutral_SC_2013,
+  abbr={SC},
+  title={COCA: Online Distributed Resource Management for Cost Minimization and Carbon Neutrality in Data Centers},
+  author={Shaolei Ren and Yuxiong He},
+  abstract={Due to the enormous energy consumption and associated environmental concerns, data centers have been increasingly pressured to reduce long-term net carbon footprint to zero, i.e., carbon neutrality. In this paper, we propose an online algorithm, called COCA (optimizing for COst minimization and CArbon neutrality), for minimizing data center operational cost while satisfying carbon neutrality without long-term future information. Unlike the existing research, COCA enables distributed server-level resource management: each server autonomously adjusts its processing speed and optimally decides the amount of workloads to process. We prove that COCA achieves a close-to-minimum operational cost (incorporating both electricity and delay costs) compared to the optimal algorithm with future information, while bounding the potential violation of carbon neutrality. We also perform trace-based simulation studies to complement the analysis, and the results show that COCA reduces cost by more than 25% (compared to state of the art) while resulting in a smaller carbon footprint.},
+  journal = {SC},
+  year={2013},
+  month = {},
+  url={https://dl.acm.org/doi/abs/10.1145/2503210.2503248},
+  html={https://dl.acm.org/doi/abs/10.1145/2503210.2503248},
+  bibtex_show = {true},
+  selected={false},
+  topic = {green},
+  timerange = {before16},
+  show = {true}
+}
+
+
+
+@article{EnergyTrading_EV_SmartGrid_JSAC_2013,
+  abbr={JSAC},
+  title={Bidirectional Energy Trading and Residential Load Scheduling with Electric Vehicles in the Smart Grid},
+  author={Byung-Gook Kim and Shaolei Ren and Mihaela van der Schaar and Jang-Won Lee},
+  abstract={Electric vehicles (EVs) will play an important role in the future smart grid because of their capabilities of storing electrical energy in their batteries during off-peak hours and supplying the stored energy to the power grid during peak hours. In this paper, we consider a power system with an aggregator and multiple customers with EVs and propose novel electricity load scheduling algorithms which, unlike previous works, jointly consider the load scheduling for appliances and the energy trading using EVs. Specifically, we allow customers to determine how much energy to purchase from or to sell to the aggregator while taking into consideration the load demands of their residential appliances and the associated electricity bill. We propose two different approaches: a collaborative and a non-collaborative approach. In the collaborative approach, we develop an optimal distributed load scheduling algorithm that maximizes the social welfare of the power system. In the non-collaborative approach, we model the energy scheduling problem as a non-cooperative game among self-interested customers, where each customer determines its own load scheduling and energy trading to maximize its own profit. In order to resolve the unfairness between heavy and light customers in the non-collaborative approach, we propose a tiered billing scheme that can control the electricity rates for customers according to their different energy consumption levels. In both approaches, we also consider the uncertainty in the load demands, with which customers' actual energy consumption may vary from the scheduled energy consumption. To study the impact of the uncertainty, we use the worst-case-uncertainty approach and develop distributed load scheduling algorithms that provide the guaranteed minimum performances in uncertain environments. Subsequently, we show when energy trading leads to an increase in the social welfare and we determine what are the customers' incentives to participate in the energy trading in various usage scenarios including practical environments with uncertain load demands.},
+  journal = {IEEE Journal on Selected Areas in Communications},
+  volume = {31},
+  number = {7},
+  pages ={1219 - 1234},
+  month = {July},
+  year={2013},
+  url={https://ieeexplore.ieee.org/abstract/document/6547831},
+  html={https://ieeexplore.ieee.org/abstract/document/6547831},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {before16},
+  show = {true}
+}
+
+@article{ContentPlatform_INFOCOM_2012,
+  abbr={INFOCOM},
+  title={Maximizing Profit on User-generated Content Platforms with Heterogeneous Participants},
+  author={Shaolei Ren and Jaeok Park and Mihaela van der Schaar},
+  abstract={In this paper, we consider a user-generated content platform monetized through advertising and managed by an intermediary. To maximize the intermediary's profit given the rational decision-making of content viewers and heterogeneous content producers, a payment scheme is proposed in which the intermediary can either tax or subsidize the content producers. First, we use a model with a representative content viewer to determine how the content viewers' attention is allocated across available content by solving a utility maximization problem. Then, by modeling the content producers as self-interested agents making independent production decisions, we show that there exists a unique equilibrium in the content production stage, and propose a best-response dynamics to model the decision-making process. Next, we study the intermediary's optimal payment based on decisions made by the representative content viewer and the content producers. In particular, by considering the well-known quality-adjusted Dixit-Stiglitz utility function for the representative content viewer, we derive explicitly the optimal payment maximizing the intermediary's profit and characterize analytical conditions under which the intermediary should tax or subsidize the content producers. Finally, we generalize the analysis by considering heterogeneity in terms of production costs among the content producers.},
+  journal = {INFOCOM},
+  year={2012},
+  month = {},
+  url={https://ieeexplore.ieee.org/abstract/document/6195804},
+  html={https://ieeexplore.ieee.org/abstract/document/6195804},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {before16},
+  show = {true}
+}
+
+
+@article{UserSubscriptionDynamics_INFOCOM_2011,
+  abbr={INFOCOM},
+  title={User Subscription Dynamics and Revenue Maximization in Communications Markets},
+  author={Shaolei Ren and Jaeok Park and Mihaela van der Schaar},
+  abstract={In order to understand the complex interactions between different technologies in a communications market, it is of fundamental importance to understand how technologies affect the demand of users and competition between network service providers (NSPs). To this end, we analyze user subscription dynamics and revenue maximization in monopoly and duopoly communications markets. First, by considering a monopoly market with only one NSP, we investigate the impact of technologies on the users' dynamic subscription. It is shown that, for any price charged by the NSP, there exists a unique equilibrium point of the considered user subscription dynamics. We also provide a sufficient condition under which the user subscription dynamics converges to the equilibrium point starting from any initial point. We then derive upper and lower bounds on the optimal price and market share that maximize the NSP's revenue. Next, we turn to the analysis of a duopoly market and show that, for any charged prices, the equilibrium point of the considered user subscription dynamics exists and is unique. As in a monopoly market, we derive a sufficient condition on the technologies of the NSPs that ensures the user subscription dynamics to reach the equilibrium point. Then, we model the NSP competition using a non-cooperative game, in which the two NSPs choose their market shares independently, and provide a sufficient condition that guarantees the existence of at least one pure Nash equilibrium in the market competition game.},
+  journal = {INFOCOM},
+  year={2011},
+  month = {},
+  url={https://ieeexplore.ieee.org/abstract/document/5935099},
+  html={https://ieeexplore.ieee.org/abstract/document/5935099},
+  bibtex_show = {true},
+  selected={false},
+  topic = {others},
+  timerange = {before16},
+  show = {true}
+}
 
