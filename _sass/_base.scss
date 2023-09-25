@@ -602,13 +602,23 @@ footer.sticky-bottom {
 
   .card-item {
     width: auto;
-    margin-bottom: 1px;
+    margin-bottom: 10px;
 
     .row {
       display: flex;
       align-items: center;
     }
   }
+
+  .card-title {
+    margin-top: -10px;
+  }
+
+  .card-text {
+    margin-top: -10px;
+    margin-bottom: -10px;
+  }
+
 
   .grid-sizer,
   .grid-item {
@@ -621,7 +631,7 @@ footer.sticky-bottom {
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.2rem;
     text-align: right;
   }
 }
