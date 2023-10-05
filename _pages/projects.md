@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-**under construction**
+<p style="font-size: 2rem; color:red"><b>under construction</b></p>
 
 <!-- pages/projects.md -->
 <div class="projects">
