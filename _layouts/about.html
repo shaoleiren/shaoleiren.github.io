@@ -42,6 +42,13 @@ layout: default
           </div>
 
 
+          <!-- News -->
+          {% if page.news and site.announcements.enabled -%}
+          <!-- <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h3> -->
+          <h3>news</h3>  
+            {%- include news.html limit=true %}
+          {%- endif %}
+
           <!-- Selected media -->
           <h3>news</h3>
 
@@ -53,7 +60,7 @@ layout: default
                 </span>
               </div>
               <div class="col-xs-11 cl-sm-11 col-md-11 mt-2 mt-md-0">
-               I attended the <a href="https://sites.duke.edu/nsfcsr2023/agenda/">NSF Computer Systems Research PI meeting</a> and was invited to give a talk on my research "Towards Environmentally Sutainable and Equitable Computing" at the panel on Sustainable Computing.
+               I attended the <a href="https://sites.duke.edu/nsfcsr2023/agenda/">NSF Computer Systems Research PI meeting</a> and was invited to give a talk on my research <b><a href="assets/pdf/slides/slides_sustainable_equitable_nsf_csr.pdf" target="_blank"> "Towards Environmentally Sutainable and Equitable Computing"</a></b> at the panel on Sustainable Computing.
               </div>
           </div>
 
@@ -163,11 +170,7 @@ layout: default
           <br/>
           <br/>
 
-          <!-- News -->
-          {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
-          {%- endif %}
+          
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}

@@ -15,33 +15,33 @@ layout: default
   <br/>
   <article>
           
-          <h3 class="card-title font-weight-medium">selected papers</h3>
+          <h3 class="card-title font-weight-medium">Selected papers</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true && show=true]* %}
           </div>
   
-          <h3 class="card-title font-weight-medium">ai & computing for sustainability</h3>
+          <h3 class="card-title font-weight-medium">AI & computing for sustainability</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=ai4sustainability && show=true]* %}
           </div>
 
 
-          <h3 class="card-title font-weight-medium">sustainable ai & computing</h3>
+          <h3 class="card-title font-weight-medium">Sustainable AI & computing</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=green && show=true]* %}
           </div>
 
-          <h3 class="card-title font-weight-medium">secure ai & computing</h3>
+          <h3 class="card-title font-weight-medium">Secure AI & computing</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=security && show=true]* %}
           </div>
 
-          <h3 class="card-title font-weight-medium">others</h3>
+          <h3 class="card-title font-weight-medium">Others</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=others && show=true]* %}
           </div>
 
-          <h3 class="card-title font-weight-medium">by year</h3>
+          <h3 class="card-title font-weight-medium">By year</h3>
           <h4 class="card-title font-weight-medium">2021 -- present</h4>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[timerange=21to25 && show=true]* %}
