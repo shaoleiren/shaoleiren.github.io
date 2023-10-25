@@ -20,15 +20,15 @@ layout: default
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true && show=true]* %}
           </div>
   
-          <h3 class="card-title font-weight-medium">AI & computing for sustainability</h3>
-          <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=ai4sustainability && show=true]* %}
-          </div>
-
-
           <h3 class="card-title font-weight-medium">Sustainable AI & computing</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=green && show=true]* %}
+          </div>
+          
+
+          <h3 class="card-title font-weight-medium">AI & computing for sustainability</h3>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=ai4sustainability && show=true]* %}
           </div>
 
           <h3 class="card-title font-weight-medium">Secure AI & computing</h3>
