@@ -1,7 +1,7 @@
 ---
 layout: student
 permalink: /students/
-title: student
+title: students
 description: students 
 nav: true
 nav_order: 3
