@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/publications/'>AI + Sustainability:</a> Building a sustainable and equitable future
+subtitle: <a href='/publications/'>AI + Sustainability:</a> Building a sustainable and equitable network of systems 
 
 
 profile:
@@ -19,11 +19,11 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research strives to build
-a **sustainable and equitable** society, broadly focusing on <a href='/publications/'>AI + Sustainability</a>. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and methodologies to make AI and computing systems more sustainable; and (2) leveraging AI and computational techniques to make our society more sustainable and equitable. I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability.
+a **sustainable and equitable network of systems**, broadly focusing on <a href='/publications/'>AI + Sustainability</a>. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and methodologies to make AI and networked systems more sustainable; and (2) leveraging AI and computational techniques to make our networked society more sustainable and equitable. I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability.
 
 
 
 **To prospective students:** I have multiple openings available for graduate students with full financial support (in either [ECE](https://www1.cs.ucr.edu/) or
 [CSE](https://www1.cs.ucr.edu/) department). 
-Students with interests in AI + sustainability, optimization, machine learning, or other relevant areas
+Students with interests in AI + sustainability, networks, optimization, machine learning, or other relevant areas
 are welcome to contact me.
