@@ -5,7 +5,7 @@ title: publications
 description: 
 nav: true
 nav_order: 1
-toc:
+toc: 
  sidebar: left
 ---
 
