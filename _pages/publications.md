@@ -9,8 +9,6 @@ toc:
  sidebar: left
 ---
 
-**Under construction. Please visit my old page: [https://intra.ece.ucr.edu/~sren/publications.html](https://intra.ece.ucr.edu/~sren/publications.html)**
-
 <!-- _pages/publications.md -->
 
  <div class="publications">
