@@ -18,12 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<<<<<<< HEAD
 I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. Striving to build a **sustainable and equitable network of systems**, my research broadly focuses on <a href='/publications/'>AI + Sustainability</a> and pushes forward the boundaries of the field by uncovering and addressing water sustainability and environmental equity in networked AI/computing systems. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make networked AI/computing systems more sustainable and equitable; and 
 (2) leveraging AI and computational techniques to make our networked society more sustainable and equitable. I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability.
+=======
+I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research strives to build
+a **sustainable and equitable network of systems**, broadly focusing on <a href='/publications/'>AI + Sustainability</a>. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make AI and networked computing systems more sustainable; and (2) leveraging AI and computational techniques to make our networked society more sustainable and equitable. I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability.
+>>>>>>> parent of 259e8bb (update)
 
 
 
 **To prospective students:** I have multiple openings available for graduate students with full financial support (in either [ECE](https://www1.cs.ucr.edu/) or
 [CSE](https://www1.cs.ucr.edu/) department). 
-Students with interests in AI, networks, optimization, sustainability, or other relevant areas
+Students with interests in AI + sustainability, networks, optimization, machine learning, or other relevant areas
 are welcome to contact me.
