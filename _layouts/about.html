@@ -141,6 +141,22 @@ layout: default
 
           <br/>
 
+          
+
+          
+
+          <!-- Latest posts -->
+          {% if page.latest_posts -%}
+            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
+            {%- include latest_posts.html %}
+          {%- endif %}
+
+          <!-- Selected papers -->
+          {% if page.selected_papers -%}
+            <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">recent highlights</a></h3>
+            {%- include selected_papers.html %}
+          {%- endif %}
+
           <!-- Selected media -->
           <h3><a href="{{ '/impacts/' | relative_url }}" style="color: inherit;">societal impacts</a></h3>
          
@@ -213,20 +229,6 @@ layout: default
 
           <br/>
           <br/>
-
-          
-
-          <!-- Latest posts -->
-          {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
-            {%- include latest_posts.html %}
-          {%- endif %}
-
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">recent highlights</a></h3>
-            {%- include selected_papers.html %}
-          {%- endif %}
 
 
           <!-- Education -->
