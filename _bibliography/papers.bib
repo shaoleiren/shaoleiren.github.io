@@ -201,6 +201,24 @@ cost functions.},
 }
 
 @article{Learning_NNSplitter_ICML_2023,
+  abbr={ICLR},
+  title={ArchLock: Locking DNN Transferability at the Architecture Level with a Zero-Cost Binary Predictor},
+  author={Tong Zhou and Shaolei Ren and Xiaolin Xu},
+  abstract={Deep neural network (DNN) models, despite their impressive performance, are vulnerable to exploitation by attackers who attempt to adapt them to other tasks for their own benefit. Current defense strategies mainly address this vulnerability at the model parameter level, leaving the potential of architectural-level defense largely unexplored. This paper, for the first time, addresses the issue of model protection by reducing transferability at the architecture level. Specially, we present a novel neural architecture search (NAS)-enabled algorithm that employs zero-cost proxies and evolutionary search, to design model architectures with low transferability. Our method, namely ArchLock, aims to achieve high performance on the source task, while degrading the performance on target tasks, i.e., locking the transferability of a DNN model. To achieve efficient cross-task search without having access to the training data owned by the attackers, we utilize zero-cost proxies to speed up architecture evaluation and simulate potential target task embeddings to assist cross-task search with a binary performance predictor. Extensive experiments on NAS-Bench-201 and TransNAS-Bench-101 demonstrate that ArchLock reduces transferability by up to 30% and 50%, respectively, with negligible performance degradation on source tasks (<2%).},
+  journal={ICLR},
+  month = {},
+  year={2024},
+  url={https://openreview.net/forum?id=e2YOVTenU9},
+  html={https://openreview.net/forum?id=e2YOVTenU9},
+  bibtex_show = {true},
+  selected={false},
+  recenthighlights={false},
+  topic = {security},
+  timerange = {21to25},
+  show = {true}
+}
+
+@article{Learning_NNSplitter_ICML_2023,
   abbr={ICML},
   title={NNSplitter: An Active Defense Solution for DNN Model via Automated Weight Obfuscation},
   author={Tong Zhou and Yukui Luo and Shaolei Ren and Xiaolin Xu},
