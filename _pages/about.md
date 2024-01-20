@@ -19,12 +19,14 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. Striving to build a **sustainable and equitable future**, my research broadly focuses on <a href="/publications/">AI + Sustainability</a> and pushes forward the boundaries of the field by uncovering and addressing water sustainability and environmental equity in networked AI/computing systems. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make networked AI/computing systems more sustainable and equitable; and 
+I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. Striving to build a **sustainable and equitable future**, my research broadly focuses on <a href="/publications/">environmentally responsible AI</a> and pushes forward the boundaries of the field by uncovering and addressing water sustainability and environmental equity in networked AI/computing systems. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make networked AI/computing systems more sustainable and equitable; and 
 (2) leveraging AI and computational techniques to make our networked society more sustainable and equitable. I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability. 
-In addition to advancing the state of the art on sustainability and equity, my research has also generated broader <a href="#impacts">societal impacts</a> in various ways, e.g., featured by
-**[Nature Briefing](https://www.nature.com/articles/d41586-023-03768-y)** (Nature's
-science newsletter) and [OECD AI Policy Observatory](https://oecd.ai/en/wonk/how-much-water-does-ai-consume), and reported
-by major media outlets in ~100 countries including [The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4) and
+In addition to advancing the state of the art on sustainability and equity, my research has also generated broader <a href="#impacts">societal impacts</a> in various ways, e.g., included
+in AI ethics and governance guidance by the **[World Health Organization](https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf)** and the **[World Economic Forum](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf)**,
+featured by
+**[Nature Briefing](https://www.nature.com/articles/d41586-023-03768-y)** (Nature's science newsletter) and [OECD AI Policy Observatory](https://oecd.ai/en/wonk/how-much-water-does-ai-consume), and fostering
+public understanding of environmentally responsible AI through coverage
+by major news outlets in ~100 countries including [The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4) and
 [The Wall Street Journal](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678).
 
 
