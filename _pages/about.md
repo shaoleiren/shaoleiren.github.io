@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Intelligent decision-making for a sustainable and equitable future
+subtitle: <a href="/publications/">Intelligent decision-making</a> for a sustainable and equitable future
 
 
 profile:
