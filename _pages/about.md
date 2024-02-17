@@ -29,7 +29,7 @@ in AI ethics and governance guidance by **[United Nations Educational, Scientifi
 featured by
 **[Nature Briefing](https://www.nature.com/articles/d41586-023-03768-y)** (Nature's science newsletter) and [OECD AI Policy Observatory](https://oecd.ai/en/wonk/how-much-water-does-ai-consume), and fostering
 public understanding of environmentally responsible AI through coverage
-by major news outlets in ~100 countries including [The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4) and
+by 800+ major news outlets in ~100 countries including [The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4) and
 [The Wall Street Journal](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678).
 
 
