@@ -30,7 +30,8 @@ and generated broader <a href="/impacts/">societal impacts</a> in various ways, 
 informing AI policies and ethics (e.g., included in AI usage and governance guidance
 of **[United Nations Educational, Scientific and Cultural Organization](https://www.computer.org/csdl/magazine/co/2024/02/10417786/1Ua1B1ZYCR2)**, **[World Health Organization](https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf)**, **[Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)**, 
 **[Government of The Netherlands](https://www.government.nl/documents/parliamentary-documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands)**,
-**[Innovate UK](https://iuk.ktn-uk.org/wp-content/uploads/2023/10/responsible-trustworthy-ai-report.pdf)**, and **[Stanford HAI](https://hai.stanford.edu/sites/default/files/2024-02/Exploring-Impact-AI-Black-Americans.pdf)**),
+**[Innovate UK](https://iuk.ktn-uk.org/wp-content/uploads/2023/10/responsible-trustworthy-ai-report.pdf)**, 
+**[UK Government](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html)**, and **[Stanford HAI](https://hai.stanford.edu/sites/default/files/2024-02/Exploring-Impact-AI-Black-Americans.pdf)**),
 advancing K-12 education (e.g., included in international/U.S. high-school courses of
 [Financial Times for School](https://www.ft.com/content/a5a20823-d26f-4701-8afa-18a46a2eea98) offering
 access to nearly 5,000 schools worldwide),
