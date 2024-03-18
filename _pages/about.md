@@ -37,7 +37,7 @@ of **[United Nations Educational, Scientific and Cultural Organization](https://
  **[Stanford Human-Centered AI](https://hai.stanford.edu/sites/default/files/2024-02/Exploring-Impact-AI-Black-Americans.pdf)** (Stanford HAI).
 
 
-- **Advancing K-12 education:** Included in **[international](https://www.ft.com/content/a5a20823-d26f-4701-8afa-18a46a2eea98)/[U.S.](https://www.ft.com/content/b9962fbd-a515-428e-a25c-ed14a36a51ad)** high-school course materials offered by
+- **Advancing K-12 education:** Included in **[international](https://www.ft.com/content/a5a20823-d26f-4701-8afa-18a46a2eea98) and [U.S.](https://www.ft.com/content/b9962fbd-a515-428e-a25c-ed14a36a51ad)** high-school course materials offered by
 [Financial Times](https://www.ft.com/ft-schools) to nearly 5,000 schools worldwide.
 
 - **Impacting industries:** Leading to the industry's first
