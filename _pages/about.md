@@ -33,7 +33,7 @@ of **[United Nations Educational, Scientific and Cultural Organization](https://
 **[Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)**, 
 **[Government of The Netherlands](https://www.government.nl/documents/parliamentary-documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands)**,
 **[Innovate UK](https://iuk.ktn-uk.org/wp-content/uploads/2023/10/responsible-trustworthy-ai-report.pdf)** (UK's national innovation agency), 
-**[UK Government](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html)**, **[Conseil constitutionnel](https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/decisions/2023850dc/2023850dc_contributions.pdf)** (The Constitutional Council in France), and
+**[UK Government](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html)**, **[Conseil Constitutionnel](https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/decisions/2023850dc/2023850dc_contributions.pdf)** (The Constitutional Council in France), and
  **[Stanford Human-Centered AI](https://hai.stanford.edu/sites/default/files/2024-02/Exploring-Impact-AI-Black-Americans.pdf)** (Stanford HAI).
 
 
