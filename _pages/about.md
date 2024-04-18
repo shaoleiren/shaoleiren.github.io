@@ -54,5 +54,5 @@ and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
 
 **To prospective students:** I have multiple openings available for graduate students with full financial support (in either [ECE](https://www1.cs.ucr.edu/) or
 [CSE](https://www1.cs.ucr.edu/) department). 
-Students with interests in AI + sustainability, networks, optimization, machine learning, or other relevant areas
+Students with interests in AI, networks, optimization, machine learning, or other relevant areas
 are welcome to contact me.
