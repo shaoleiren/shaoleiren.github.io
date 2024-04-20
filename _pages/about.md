@@ -23,7 +23,7 @@ I am an Associate Professor of [Electrical and Computer Engineering](https://www
 for building a **sustainable and equitable future**. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make networked AI/computing systems more sustainable and equitable; and 
 (2) leveraging AI and computational techniques to make our networked society more sustainable and equitable.
  I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability. I publish my research in venues such as [SIGMETRICS](https://www.sigmetrics.org/),
- [NeurIPS](https://neurips.cc/), and [ASPLOS](https://www.asplos-conference.org/). Ocassionally, I also wrote semitechnical blogs/columns on venues such as the [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). 
+ [NeurIPS](https://neurips.cc/), and [ASPLOS](https://www.asplos-conference.org/). I have also writen semitechnical blogs/columns on venues such as the [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). 
 
 
 My research on socially and environmentally responsible AI has pushed forward the field
