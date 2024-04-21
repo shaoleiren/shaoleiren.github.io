@@ -24,12 +24,14 @@ for building a **sustainable and equitable** future. More concretely, I am inter
 (2) leveraging AI and computational techniques to make our networked society more sustainable and equitable.
  I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability. 
 
- I publish my research in conferences such as [SIGMETRICS](https://www.sigmetrics.org/),
- [NeurIPS](https://neurips.cc/), and [ASPLOS](https://www.asplos-conference.org/). I have also writen semitechnical articles for various mgazines and organizations such as the [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I speak about my research on media outlets and public platforms such as [CNBC](https://www.cnbc.com/2023/12/06/water-why-a-thirsty-generative-ai-boom-poses-a-problem-for-big-tech.html) and [TED AI in Vienna](https://tedai-vienna.ted.com/)  (TED's special event dedicated to AI in Europe).
+ I publish my research in various conferences, including [SIGMETRICS](https://www.sigmetrics.org/),
+ [NeurIPS](https://neurips.cc/), and [ASPLOS](https://www.asplos-conference.org/). I have also writen semitechnical articles for multiple magzines and organizations such as the [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I speak about my research on media outlets and public platforms such as [CNBC](https://www.cnbc.com/2023/12/06/water-why-a-thirsty-generative-ai-boom-poses-a-problem-for-big-tech.html) and [TED AI in Vienna](https://tedai-vienna.ted.com/)  (TED's special event dedicated to AI in Europe). I currently serve
+ on the steering committee of the [US Center for Strategic and International Studies (CSIS)](https://www.csis.org/programs/global-food-and-water-security-program) Project for Water Security.
+
 
 
 My research on socially and environmentally responsible AI has pushed forward the field
-and generated broader <a href="/impacts/">societal impacts</a> in various ways, including:
+and generated **[broader  impacts](/impacts/)** in various ways, including:
 
 - **Informing AI policies and ethics:** Featured in the **[United Nations <span style="font-weight:lighter;">World Water Development Report 2024</span>](https://unesdoc.unesco.org/ark:/48223/pf0000388948)** (Chapter 10.1 "Science, Technology and Innovation"), and included in AI ethics and governance guidance
 of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf)** (WHO), **[United Nations Educational, Scientific and Cultural Organization](https://www.computer.org/csdl/magazine/co/2024/02/10417786/1Ua1B1ZYCR2)** (UNESCO),  **[Organisation for Economic Co-operation and Development](https://www.oecd.org/education/education-policy-outlook-4cf5b585-en.htm)** (OECD), **[World Economic Forum](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf)**,
