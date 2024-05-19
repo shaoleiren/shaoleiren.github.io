@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="/publications/">Responsible AI</a> for building a sustainable and equitable future
+subtitle: <a href="/publications/">Responsible AI</a> for building a resilient, sustainable and equitable future
 
 
 profile:
@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 
 I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on <a href="/publications/">responsible AI</a> 
-for building a **sustainable and equitable** future. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make networked AI/computing systems more sustainable and equitable; and 
+for building a **resilient, sustainable and equitable** future. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make networked AI/computing systems more sustainable and equitable; and 
 (2) leveraging AI and computational techniques to make our networked society more sustainable and equitable.
  I received the 2015 NSF CAREER award and Best Paper awards from multiple conferences (including the ACM e-Energy'16, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability. 
 
