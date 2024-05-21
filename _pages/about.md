@@ -48,8 +48,7 @@ of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665
 [Financial Times](https://www.ft.com/ft-schools) to nearly 5,000 schools worldwide, among others.
 
 - **Impacting industries:** Leading to the industry's first
-real-time [water footprint reporting](https://www.linkedin.com/posts/greenpixie_greenpixie-is-proud-to-include-water-consumption-activity-7155581411104604160-7W1_/) tool for computing systems, and influencing the [ISO/IEC international standard](https://www.iec.ch/blog/importance-sustainable-ai)
-and [IBM's AI risk atlas](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=atlas-impact-environment) on sustainable AI, among others. 
+real-time [water footprint reporting](https://www.linkedin.com/posts/greenpixie_greenpixie-is-proud-to-include-water-consumption-activity-7155581411104604160-7W1_/) tool for computing systems, and influencing [IBM's AI risk atlas](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=atlas-impact-environment) on sustainable AI, among others. 
 
 - **Fostering public awareness of responsible AI:** Through coverage
 by ~1,000 major news outlets in ~100 countries such as **[The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)**,
