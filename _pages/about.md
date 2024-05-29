@@ -40,7 +40,7 @@ of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665
 **[Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)**, 
 **[Government of The Netherlands](https://www.government.nl/documents/parliamentary-documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands)**,
 **[Innovate UK](https://iuk.ktn-uk.org/wp-content/uploads/2023/10/responsible-trustworthy-ai-report.pdf)** (UK's national innovation agency), 
-**[UK Parliment](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/201764/we-must-fundamentally-change-the-way-we-think-about-artificial-intelligence/)** (The Science, Innovation and Technology Committee),
+**[UK Parliament](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/201764/we-must-fundamentally-change-the-way-we-think-about-artificial-intelligence/)** (The Science, Innovation and Technology Committee),
 **[UK Government](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html)**, and
  **[Stanford Human-Centered AI](https://hai.stanford.edu/sites/default/files/2024-02/Exploring-Impact-AI-Black-Americans.pdf)** (Stanford HAI), among others.
 
