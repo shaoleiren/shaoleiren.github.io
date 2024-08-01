@@ -26,7 +26,9 @@ for building a **resilient, sustainable and equitable** future. More concretely,
 
  I publish my research in various conferences, including [SIGMETRICS](https://www.sigmetrics.org/),
  [NeurIPS](https://neurips.cc/), and [ASPLOS](https://www.asplos-conference.org/). I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts) and
-  [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I speak about my research on media outlets and public platforms such as [CNBC](https://www.cnbc.com/2023/12/06/water-why-a-thirsty-generative-ai-boom-poses-a-problem-for-big-tech.html) and [TED AI](https://tedai-vienna.ted.com/) in Europe (first TED AI conference in Europe). I currently serve
+  [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I share my research findings on policy forums, public events and media/television,
+   such as expert panels organized by
+   [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), [TED AI](https://tedai-vienna.ted.com/) in Europe (first TED AI conference in Europe), and CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)). I currently serve
  on the steering committee of the [US Center for Strategic and International Studies (CSIS)](https://www.csis.org/programs/global-food-and-water-security-program) Project for Water Security.
 
 
