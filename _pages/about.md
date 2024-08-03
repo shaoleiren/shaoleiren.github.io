@@ -28,7 +28,7 @@ for building a **resilient, sustainable and equitable** future. More concretely,
  [NeurIPS](https://neurips.cc/), and [ASPLOS](https://www.asplos-conference.org/). I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts) and
   [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I share my research findings on policy forums, public events and media/television,
    such as expert panels organized by
-   [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), [TED AI](https://tedai-vienna.ted.com/) in Europe (the first TED AI conference in Europe), and CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)). I currently serve
+   [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), [TED AI](https://tedai-vienna.ted.com/) in Europe (the first TED AI conference in Europe),  CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)), and [NPR](https://one.npr.org/?sharedMediaId=nx-s1-5059073:nx-s1-dd125ecf-65a2-40d5-89e2-e5ca568238c5). I currently serve
  on the steering committee of the [US Center for Strategic and International Studies (CSIS)](https://www.csis.org/programs/global-food-and-water-security-program) Project for Water Security.
 
 
