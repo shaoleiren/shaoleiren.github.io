@@ -64,7 +64,7 @@ of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665
 real-time [water footprint reporting](https://www.linkedin.com/posts/greenpixie_greenpixie-is-proud-to-include-water-consumption-activity-7155581411104604160-7W1_/) tool for computing systems, and influencing [IBM's AI risk atlas](https://dataplatform.cloud.ibm.com/docs/content/wsj/ai-risk-atlas/impact-on-the-environment.html?context=wx&audience=wdp) on sustainable AI, among others. 
 
 - **Fostering public awareness of responsible AI:** Through coverage
-by ~1,000 major news outlets in ~100 countries such as **[The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)**,
+by more than 1,000 major news outlets in ~100 countries such as **[The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)**,
 **[The Wall Street Journal](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678)**,
 and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
 
