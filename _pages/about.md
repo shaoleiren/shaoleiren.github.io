@@ -20,12 +20,19 @@ social: false # includes social icons at the bottom of the page
 
 
 I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on <a href="/publications/">responsible AI</a> 
-for building a **resilient, sustainable and equitable** future. More concretely, I am interested in two complementary directions: (1) developing foundational algorithms and empirical methodologies to make networked AI/computing systems more sustainable and equitable; and 
-(2) leveraging AI and computational techniques to make our networked society more sustainable and equitable.
- I received the 2015 NSF CAREER award and paper awards from multiple conferences (including ACM e-Energy 2024 and 2016, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/)) for my research on computational sustainability. 
+for building a **resilient, sustainable and equitable** future. Towards this goal, I study both algorithmic foundations and empirical methodologies, including:
 
- I publish my research in various conferences, including [SIGMETRICS](https://www.sigmetrics.org/),
- [NeurIPS](https://neurips.cc/), and [ASPLOS](https://www.asplos-conference.org/). I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts) and
+
+- **Sustainable AI:** Measuring and minimizing the environmental footprint of AI (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203)**)
+
+- **Learning-augmented decision-making:** Robustifying machine learning predictions in highly dyanmic, uncertain, and/or adversarial environments (**[SIGEMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23](https://arxiv.org/abs/2306.00172), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
+
+- **Algorithmic fairness:** Building socially and environmentally equitable AI (**[ICML'24](https://arxiv.org/abs/2406.02790), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
+
+
+
+ I received the 2015 NSF CAREER award and paper awards from multiple conferences, including ACM e-Energy 2024 and 2016, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/), for my research on computational sustainability. 
+ I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts) and
   [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I share my research findings on policy forums, public events and media/television,
    such as expert panels organized by
    [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), [TED AI](https://tedai-vienna.ted.com/) in Europe (the first TED AI conference in Europe),  CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)), and [NPR](https://one.npr.org/?sharedMediaId=nx-s1-5059073:nx-s1-dd125ecf-65a2-40d5-89e2-e5ca568238c5). I currently serve
