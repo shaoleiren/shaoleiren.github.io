@@ -27,7 +27,7 @@ for building a **resilient, sustainable and equitable** future. Towards this goa
 
 - **Safe decision-making:** Robustifying machine learning predictions for decision-making in highly dyanmic, uncertain, and/or adversarial environments such as renewable-powered computing systems (**[SIGEMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23](https://arxiv.org/abs/2306.00172), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
 
-- **Algorithmic fairness:** Building equitable AI to tackle societal challenges such as sustainability and climage change (**[ICML'24](https://arxiv.org/abs/2406.02790), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
+- **Algorithmic fairness:** Building equitable AI to tackle societal challenges such as sustainability and climage change (**[ICML'24](https://arxiv.org/abs/2406.02790), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review <span style="font-weight:lighter;">(perspective article)</span>](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
 
 
 
