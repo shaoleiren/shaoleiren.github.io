@@ -23,7 +23,7 @@ I am an Associate Professor of [Electrical and Computer Engineering](https://www
 for building a **resilient, sustainable and equitable** future. Towards this goal, I study both algorithmic foundations and empirical methodologies, including:
 
 
-- **<span style="color:darkred;">Sustainable AI:</span>** Developing principled methodoogies to measure and minimize AI's resource usage and lifecyle environmental footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203)**)
+- **<span style="color:darkred;">Sustainable AI:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecyle environmental footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203)**)
 
 - **<span style="color:darkred;">Safe decision-making:</span>** Robustifying machine learning predictions in highly dyanmic, uncertain, and/or adversarial environments such as renewable-powered computing systems (**[SIGEMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23](https://arxiv.org/abs/2306.00172), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
 
