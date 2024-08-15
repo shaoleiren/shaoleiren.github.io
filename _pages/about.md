@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on **<a href="/publications/">responsible AI</a>** 
 for a resilient, sustainable and equitable future. 
 
-More concretely, I am interested in advancing AI's **social responsibility** to serve and benefit society in an ethical manner, including building AI systems with minimum resource usage and environmental costs
+More concretely, I am interested in advancing AI's **social and environmental responsibility** to serve and benefit society in an ethical manner, including building AI systems with minimum resource usage and environmental costs
 on society (especially in capacity constrained communities grappling with energy and climate change challenges)
 and safeguarding
 AI for equitable and robust deployment in high-stakes environments. Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
