@@ -23,7 +23,7 @@ I am an Associate Professor of [Electrical and Computer Engineering](https://www
 for a resilient, sustainable and equitable future. 
 
 I am broadly interested in advancing AI's **social and environmental responsibility** to serve and benefit society in an ethical manner, including building AI systems with minimum resource usage and environmental costs
-on society (especially in capacity constrained communities grappling with energy and climate change challenges)
+on society (especially in capacity constrained communities grappling with energy and climate change challenges), advancing public health equity, 
 and safeguarding
 AI for equitable and robust deployment in high-stakes environments. Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
 
