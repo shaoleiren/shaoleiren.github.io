@@ -43,13 +43,12 @@ AI for equitable and robust deployment in high-stakes environments. Towards this
    such as expert panels organized by
    [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), [TED AI](https://tedai-vienna.ted.com/) in Europe (the first TED AI conference in Europe),  WSJ ([one](https://www.wsj.com/tech/novel-ideas-to-cool-data-centers-liquid-in-pipes-or-a-dunking-bath-cdb7a393), [two](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678)), CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)), LA Times ([one](https://www.latimes.com/environment/story/2024-08-12/california-data-centers-could-derail-clean-energy-goals), [two](https://www.latimes.com/opinion/story/2024-08-15/editorial-generative-ai-is-a-leading-contributor-to-our-energy-consumption-how-will-this-impact-our-climate),
    [three](https://www.latimes.com/environment/story/2024-08-26/tech-firms-conceal-water-and-power-demands-of-ai-computing)), [NPR](https://one.npr.org/?sharedMediaId=nx-s1-5059073:nx-s1-dd125ecf-65a2-40d5-89e2-e5ca568238c5), 
-   [BBC](https://www.bbc.co.uk/programmes/w172zbk78bmgkxz), 
    [EuroNews](https://www.euronews.com/video/2023/11/01/ai-chatgpt-consumes-more-energy-than-a-traditional-internet-search), and [ABC](https://www.abc.net.au/listen/programs/futuretense/artificial-intelligence-its-limits-risks-nd-thirst-for-resources/104238774) (Australian Broadcasting Corporation). I currently serve
  on the steering committee of the [US Center for Strategic and International Studies (CSIS)](https://www.csis.org/programs/global-food-and-water-security-program) Project for Water Security.
 
 
 
-My research on socially and environmentally responsible AI has pushed forward the field
+My research on socially and environmentally responsible computing has pushed forward the field
 and generated **[broader  impacts](/impacts/)** in various ways, including:
 
 - **Informing AI policies and ethics:** Featured in the **[United Nations <span style="font-weight:lighter;">World Water Development Report 2024</span>](https://unesdoc.unesco.org/ark:/48223/pf0000388948)** (Chapter 10.1 "Science, Technology and Innovation")，**[United Nations Digital Economy Report 2024](https://unctad.org/publication/digital-economy-report-2024)** (published by UN Trade and Development), 
