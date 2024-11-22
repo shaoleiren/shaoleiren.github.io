@@ -41,7 +41,7 @@ AI for equitable and robust deployment in high-stakes environments. Towards this
  I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts) and
   [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I share my research findings on policy forums, public events and media/television,
    such as expert panels organized by
-   [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), WSJ ([one](https://www.wsj.com/tech/novel-ideas-to-cool-data-centers-liquid-in-pipes-or-a-dunking-bath-cdb7a393), [two](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678)), CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)), LA Times ([one](https://www.latimes.com/environment/story/2024-08-12/california-data-centers-could-derail-clean-energy-goals), [two](https://www.latimes.com/opinion/story/2024-08-15/editorial-generative-ai-is-a-leading-contributor-to-our-energy-consumption-how-will-this-impact-our-climate),
+   [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), WSJ ([one](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43), [two](https://www.wsj.com/tech/novel-ideas-to-cool-data-centers-liquid-in-pipes-or-a-dunking-bath-cdb7a393), [three](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678)), CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)), LA Times ([one](https://www.latimes.com/environment/story/2024-08-12/california-data-centers-could-derail-clean-energy-goals), [two](https://www.latimes.com/opinion/story/2024-08-15/editorial-generative-ai-is-a-leading-contributor-to-our-energy-consumption-how-will-this-impact-our-climate),
    [three](https://www.latimes.com/environment/story/2024-08-26/tech-firms-conceal-water-and-power-demands-of-ai-computing)), [Politico](https://www.politico.com/newsletters/the-long-game/2024/10/22/ai-and-the-growing-power-struggle-00184827),
    [NPR](https://one.npr.org/?sharedMediaId=nx-s1-5059073:nx-s1-dd125ecf-65a2-40d5-89e2-e5ca568238c5), 
    [BBC](https://www.bbc.co.uk/programmes/w172zbk78bmgkxz),
@@ -56,6 +56,7 @@ and generated **[broader  impacts](/impacts/)** in various ways, including:
 and **[International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)** (commissioned by the UK government), and included in AI ethics and governance guidance
 of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf)** (WHO), **[United Nations Environment Programme](https://wedocs.unep.org/handle/20.500.11822/46288)** (UNEP), 
 **[United Nations Educational, Scientific and Cultural Organization](https://www.computer.org/csdl/magazine/co/2024/02/10417786/1Ua1B1ZYCR2)** (UNESCO), 
+**[World Trade Organization](https://www.wto.org/english/res_e/booksp_e/trading_with_intelligence_e.pdf)** (WTO),
 **[Organisation for Economic Co-operation and Development](https://www.oecd.org/education/education-policy-outlook-4cf5b585-en.htm)** (OECD), 
 **[World Economic Forum](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf)**,
 **[Organizacion de Estados Iberoamericanos](https://oei.int/oficinas/argentina/publicaciones/el-estado-de-la-ciencia-principales-indicadores-de-ciencia-y-tecnologia-iberoamericanos-interamericanos-2023)** (OEI, or Organization of Ibero-American States), 
@@ -75,7 +76,7 @@ real-time [water footprint reporting](https://www.linkedin.com/posts/greenpixie_
 
 - **Fostering public awareness of responsible AI:** Through coverage
 by more than 1,000 major news outlets in ~100 countries such as **[The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)**,
-**[The Wall Street Journal](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678)**,
+**[The Wall Street Journal](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43)**,
 and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
 
 
