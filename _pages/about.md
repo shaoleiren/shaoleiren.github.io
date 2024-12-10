@@ -28,7 +28,8 @@ AI for equitable and robust deployment in high-stakes environments. Towards this
 
 
 - **<span style="color:darkred;">Health-informed AI:</span>** Quantifying and minimizing
-the public health impact of AI data centers and leveraing AI to improve public health ([Preprint](https://arxiv.org/abs/2412.06288)) 
+the public health impact of AI data centers and leveraing AI to improve public health. Please
+check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impact of AI](https://arxiv.org/abs/2412.06288)**. More results will be posted soon!
 
 
 - **<span style="color:darkred;">AI and sustainability:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle environmental footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [OECD AI <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)**)
