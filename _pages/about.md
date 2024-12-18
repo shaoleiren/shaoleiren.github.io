@@ -60,6 +60,7 @@ and generated **[broader  impacts](/impacts/)** in various ways, including:
 and **[International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)** (commissioned by the UK government), and included in AI ethics and governance guidance
 of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf)** (WHO), **[United Nations Environment Programme](https://wedocs.unep.org/handle/20.500.11822/46288)** (UNEP), 
 **[United Nations Educational, Scientific and Cultural Organization](https://www.computer.org/csdl/magazine/co/2024/02/10417786/1Ua1B1ZYCR2)** (UNESCO), 
+**[International Telecommunication Union](https://www.itu.int/hub/2024/10/ai-for-good-impact-report-choices-to-shape-the-future/)** (ITU),
 **[World Trade Organization](https://www.wto.org/english/res_e/booksp_e/trading_with_intelligence_e.pdf)** (WTO),
 **[Organisation for Economic Co-operation and Development](https://www.oecd.org/education/education-policy-outlook-4cf5b585-en.htm)** (OECD), 
 **[World Economic Forum](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf)**,
@@ -67,8 +68,10 @@ of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665
 **[Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)**, 
 **[Government of The Netherlands](https://www.government.nl/documents/parliamentary-documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands)**,
 **[Innovate UK](https://iuk.ktn-uk.org/wp-content/uploads/2023/10/responsible-trustworthy-ai-report.pdf)** (UK's national innovation agency), 
-**[UK Parliament](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/201764/we-must-fundamentally-change-the-way-we-think-about-artificial-intelligence/)** (The Science, Innovation and Technology Committee),
-**[UK Government](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html)**, and
+**[UK Parliament](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf)** (The Science, Innovation and Technology Committee),
+**[UK Government](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html)**, 
+**[Little Hoover Commission](https://lhc.ca.gov/wp-content/uploads/Report284-Final.pdf)**, 
+and
  **[Stanford Human-Centered AI](https://hai.stanford.edu/sites/default/files/2024-02/Exploring-Impact-AI-Black-Americans.pdf)** (Stanford HAI), among others.
 
 
