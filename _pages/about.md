@@ -70,20 +70,20 @@ of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665
 **[Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)**, 
 **[Government of The Netherlands](https://www.government.nl/documents/parliamentary-documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands)**,
 **[Innovate UK](https://iuk.ktn-uk.org/wp-content/uploads/2023/10/responsible-trustworthy-ai-report.pdf)** (UK's national innovation agency), 
-**[UK Parliament](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf)** (The Science, Innovation and Technology Committee),
+**[UK Parliament](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf)**,
 **[UK Government](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html)**, 
 **[Little Hoover Commission](https://lhc.ca.gov/wp-content/uploads/Report284-Final.pdf)**, 
 and
  **[Stanford Human-Centered AI](https://hai.stanford.edu/sites/default/files/2024-02/Exploring-Impact-AI-Black-Americans.pdf)** (Stanford HAI), among others.
 
 
-- **Advancing K-12 education:** Included in **[international](https://www.ft.com/content/a5a20823-d26f-4701-8afa-18a46a2eea98)** and **[U.S.](https://www.ft.com/content/b9962fbd-a515-428e-a25c-ed14a36a51ad)** high-school course materials offered by
+- **Improving K-12 education:** Included in **[international](https://www.ft.com/content/a5a20823-d26f-4701-8afa-18a46a2eea98)** and **[U.S.](https://www.ft.com/content/b9962fbd-a515-428e-a25c-ed14a36a51ad)** high-school course materials offered by
 [Financial Times](https://www.ft.com/ft-schools) to nearly 5,000 schools worldwide, among others.
 
 - **Impacting industries:** Leading to the industry's first
 real-time [water footprint reporting](https://www.linkedin.com/posts/greenpixie_greenpixie-is-proud-to-include-water-consumption-activity-7155581411104604160-7W1_/) tool for computing systems, and influencing [IBM's AI risk atlas](https://dataplatform.cloud.ibm.com/docs/content/wsj/ai-risk-atlas/impact-on-the-environment.html?context=wx&audience=wdp) (**[blog](https://www.ibm.com/blog/10-ai-dangers-and-risks-and-how-to-manage-them/)**) on sustainable AI, among others. 
 
-- **Fostering public awareness of responsible AI:** Through coverage
+- **Increasing public awareness of responsible AI:** Through coverage
 by more than 1,000 major news outlets in ~100 countries such as **[The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)**,
 **[The Wall Street Journal](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43)**,
 and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
