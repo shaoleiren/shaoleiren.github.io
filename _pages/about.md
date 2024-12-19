@@ -89,7 +89,7 @@ real-time [water footprint reporting](https://www.linkedin.com/posts/greenpixie_
 - **Increasing public awareness of responsible AI:** Through coverage
 by more than 1,000 major news outlets in ~100 countries such as **[The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)**,
 **[The Wall Street Journal](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43)**,
-and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
+**[The Washington Post](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)**, and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
 
 
 
