@@ -58,8 +58,9 @@ My research on socially and environmentally responsible computing has pushed for
 and generated **[broader  impacts](/impacts/)** in various ways, including:
 
 - **Informing AI policies and ethics:** Featured in the 
-**[United Nations Climate Change](https://unfccc.int/ttclear/misc_/StaticFiles/gnwoerk_static/2024_events06/389603138d6f451684671a0cecbe50f6/9cc827fbb3134e31aa20bbdf5268dbfd.pdf)**, 
-**[United Nations <span style="font-weight:lighter;">World Water Development Report 2024</span>](https://unesdoc.unesco.org/ark:/48223/pf0000388948)** (Chapter 10.1 "Science, Technology and Innovation")，**[United Nations Digital Economy Report 2024](https://unctad.org/publication/digital-economy-report-2024)** (published by UN Trade and Development), 
+**[United Nations <span style="font-weight:lighter;">World Water Development Report 2024</span>](https://unesdoc.unesco.org/ark:/48223/pf0000388948)** (Chapter 10.1 "Science, Technology and Innovation")，**[United Nations Digital Economy Report 2024](https://unctad.org/publication/digital-economy-report-2024)** (published by UN Trade and Development), **[United Nations Climate Change](https://unfccc.int/ttclear/misc_/StaticFiles/gnwoerk_static/2024_events06/389603138d6f451684671a0cecbe50f6/9cc827fbb3134e31aa20bbdf5268dbfd.pdf)**, 
+**[United Nations Habitat](https://unhabitat.org/sites/default/files/2024/12/un_smart_city_outlook.pdf)**, 
+**[Report of United Nations Special Rapporteur on the Right to Education](https://www.right-to-education.org/sites/right-to-education.org/files/resource-attachments/UNSR_Report%20on%20Artificial%20intelligence%20in%20education_2024_en.pdf)** (presented at the United Nations General Assembly, 79th Session), 
 and **[International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)** (commissioned by the UK government), and included in AI ethics and governance guidance
 of the **[World Health Organization](https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf)** (WHO), **[United Nations Environment Programme](https://wedocs.unep.org/handle/20.500.11822/46288)** (UNEP), 
 **[United Nations Educational, Scientific and Cultural Organization](https://www.computer.org/csdl/magazine/co/2024/02/10417786/1Ua1B1ZYCR2)** (UNESCO), 
