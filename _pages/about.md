@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="/publications/">Responsible AI</a> for a resilient, sustainable and equitable future
-
+subtitle: <a href="/publications/">AI for Good:</a> Building
+ a resilient, sustainable and equitable future.
 
 profile:
   align: right
@@ -19,13 +19,14 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research focuses on **<a href="/publications/">responsible AI</a>** 
-for a resilient, sustainable and equitable future. 
+I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on **<a href="/publications/">AI for Good</a>**, striving to build
+ a resilient, sustainable and equitable future. 
 
-I am broadly interested in advancing AI's **social and environmental responsibility** to serve and benefit society in an ethical manner, including building AI systems with minimum resource usage, public health impact, and environmental costs, advancing public health equity, 
-and safeguarding
-AI for equitable and robust deployment in high-stakes environments. Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
+I am interested in  **AI-augmented decision making** that infuses human knowledge into intelligent agents to optimize decisions with minimum resources and provable performance guarantees. Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
 
+
+- **<span style="color:darkred;">Reliable decision-making:</span>** Robustifying machine learning predictions in highly dynamic, uncertain, and/or adversarial environments such as intermittent computing systems and AI content generation (**[SIGMETRICS'25](https://arxiv.org/abs/2306.10158), [SIGMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'24a](https://arxiv.org/abs/2406.01946), [NeurIPS'24b](/), 
+[NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
 
 - **<span style="color:darkred;">Health-informed AI:</span>** Quantifying and minimizing
 the public health impact of AI data centers and leveraing AI to improve public health. Please
@@ -34,10 +35,8 @@ check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impac
 
 - **<span style="color:darkred;">AI and sustainability:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle environmental footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [OECD AI <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)**)
 
-- **<span style="color:darkred;">Safe decision-making:</span>** Robustifying machine learning predictions in highly dynamic, uncertain, and/or adversarial environments such as intermittent computing systems and AI content generation (**[SIGMETRICS'25](https://arxiv.org/abs/2306.10158), [SIGMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'24a](https://arxiv.org/abs/2406.01946), [NeurIPS'24b](/), 
-[NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
 
-- **<span style="color:darkred;">Algorithmic fairness:</span>** Building equitable AI to tackle societal challenges such as public healthy equity and climate change (**[ICML'24](https://arxiv.org/abs/2406.02790), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
+- **<span style="color:darkred;">AI fairness:</span>** Building equitable AI to tackle societal challenges such as public healthy equity and climate change (**[ICML'24](https://arxiv.org/abs/2406.02790), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
 
 
 
