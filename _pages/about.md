@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on **<a href="/publications/">AI for Good</a>**, striving to build
  a resilient, sustainable and equitable future. 
 
-I am interested in  **AI-augmented decision making** that infuses human knowledge into intelligent agents to address societal challenges such as public health and sustainability. My reTowards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
+I am interested in  **AI-augmented decision making** that infuses human knowledge into intelligent agents to address societal challenges such as public health and sustainability. Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
 
 
 - **<span style="color:darkred;">Reliable decision-making:</span>** Robustifying machine learning predictions in highly dynamic, uncertain, and/or adversarial environments such as intermittent computing systems and AI content generation (**[SIGMETRICS'25](https://arxiv.org/abs/2306.10158), [SIGMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'24a](https://arxiv.org/abs/2406.01946), [NeurIPS'24b](/), 
