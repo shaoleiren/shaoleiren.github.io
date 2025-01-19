@@ -54,7 +54,7 @@ check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impac
 
 
 My research on socially and environmentally responsible computing has pushed forward the field
-and generated **[broader  impacts](/impacts/)** in various ways, including:
+and generated broader  impacts in various ways, including:
 
 - **Informing AI policies and ethics:** Featured in the 
 **[United Nations <span style="font-weight:lighter;">World Water Development Report 2024</span>](https://unesdoc.unesco.org/ark:/48223/pf0000388948)** (Chapter 10.1 "Science, Technology and Innovation")，**[United Nations Digital Economy Report 2024](https://unctad.org/publication/digital-economy-report-2024)** (published by UN Trade and Development), **[United Nations Climate Change](https://unfccc.int/ttclear/misc_/StaticFiles/gnwoerk_static/2024_events06/389603138d6f451684671a0cecbe50f6/9cc827fbb3134e31aa20bbdf5268dbfd.pdf)**, 
@@ -88,7 +88,8 @@ real-time [water footprint reporting](https://www.linkedin.com/posts/greenpixie_
 - **Increasing public awareness of responsible AI:** Through coverage
 by more than 1,000 major news outlets in ~100 countries such as **[The Associated Press](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)**,
 **[The Wall Street Journal](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43)**,
-**[The Washington Post](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)**, and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
+**[The Washington Post](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)**, **[Bloomberg](https://www.bloomberg.com/news/articles/2023-07-26/extreme-heat-drought-drive-opposition-to-ai-data-centers)**,
+and **[Nature](https://www.nature.com/articles/d41586-023-03768-y)**.
 
 
 
