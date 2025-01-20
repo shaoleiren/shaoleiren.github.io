@@ -25,7 +25,7 @@ I am an Associate Professor of [Electrical and Computer Engineering](https://www
 I am interested in  **AI-augmented decision making** that infuses human knowledge into intelligent agents to address societal challenges such as public health and sustainability. Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
 
 
-- **<span style="color:darkred;">Reliable decision-making:</span>** Robustifying machine learning predictions in highly dynamic, uncertain, and/or adversarial environments such as intermittent computing systems and AI content generation (**[SIGMETRICS'25](https://arxiv.org/abs/2306.10158), [SIGMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'24a](https://arxiv.org/abs/2406.01946), [NeurIPS'24b](/), 
+- **<span style="color:darkred;">Reliable AI-augmented decision making:</span>** Robustifying machine learning predictions in highly dynamic, uncertain, and/or adversarial environments such as intermittent computing systems and AI content generation (**[SIGMETRICS'25](https://arxiv.org/abs/2306.10158), [SIGMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'24a](https://arxiv.org/abs/2406.01946), [NeurIPS'24b](/), 
 [NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
 
 - **<span style="color:darkred;">Health-informed AI:</span>** Quantifying and minimizing
