@@ -36,7 +36,7 @@ check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impac
 - **<span style="color:darkred;">AI and sustainability:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle environmental footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [OECD AI <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)**)
 
 
-- **<span style="color:darkred;">AI fairness:</span>** Building equitable AI to tackle societal challenges such as public healthy equity and climate change (**[ICML'24](https://arxiv.org/abs/2406.02790), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
+- **<span style="color:darkred;">AI fairness:</span>** Building equitable AI to tackle societal challenges such as public healthy equity and climate change (**[ICML'24](https://arxiv.org/abs/2406.02790), [Communications of the ACM](https://arxiv.org/abs/2412.16539), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
 
 
 
