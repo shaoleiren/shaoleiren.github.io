@@ -9,7 +9,7 @@ layout: default
     <!-- <p class="post-description">{{ page.description }}</p> -->
   </header>
   My research broadly focuses on <b>AI for Good</b> and strives
-  to build a resilient, sustainable and healthy future. I am interested in  AI-augmented decision making that infuses human knowledge into intelligent agents to optimize decisions with minimum resources and provable performance guarantees, addressing societal challenges such as public health and sustainability. 
+  to build a resilient, safe and healthy future. I am interested in  AI-augmented decision making that infuses domain knowledge into intelligent agents to optimize decisions with minimum resources and provable performance guarantees, addressing societal challenges such as public health. Additionally, I am interested in making AI safer and more efficient. 
 
   <br/>
   <br/>
@@ -20,18 +20,18 @@ layout: default
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true && show=true]* %}
           </div>
   
-          <h3 class="card-title font-weight-medium">Sustainable AI & computing</h3>
+          <h3 class="card-title font-weight-medium">Efficient AI & computing</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=green && show=true]* %}
           </div>
           
 
-          <h3 class="card-title font-weight-medium">AI & computing for sustainability</h3>
+          <h3 class="card-title font-weight-medium">AI & computing for good</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=ai4sustainability && show=true]* %}
           </div>
 
-          <h3 class="card-title font-weight-medium">Secure AI & computing</h3>
+          <h3 class="card-title font-weight-medium">Safe AI & computing</h3>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[topic=security && show=true]* %}
           </div>
