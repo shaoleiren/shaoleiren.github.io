@@ -28,8 +28,8 @@ Towards this goal, I study both algorithmic foundations and empirical methodolog
 [NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23a](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
 
 - **<span style="color:darkred;">Health-informed AI:</span>** Quantifying and minimizing
-the public health impact of AI data centers and leveraing AI to improve public health. Please
-check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impact of AI](https://arxiv.org/abs/2412.06288)**. More results will be posted soon!
+the public health impact of AI data centers and leveraing AI to improve public health (**[IEEE Spectrum](https://spectrum.ieee.org/data-centers-pollution)**. Please
+check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impact of AI](https://arxiv.org/abs/2412.06288)**''. More results will be posted soon!
 
 
 - **<span style="color:darkred;">Efficient AI:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [CPAL'25](https://arxiv.org/abs/2502.14075), [DAC'22](https://arxiv.org/abs/2203.09680), [tinyML'22](https://cms.tinyml.org/wp-content/uploads/talks2022/2203.04894.pdf),
