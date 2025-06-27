@@ -28,7 +28,7 @@ Towards this goal, I study both algorithmic foundations and empirical methodolog
 [NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23a](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
 
 - **<span style="color:darkred;">Health-informed AI:</span>** Quantifying and minimizing
-the public health impact of AI data centers and leveraing AI to improve public health (**[IEEE Spectrum](https://spectrum.ieee.org/data-centers-pollution)**, **[Federation of American Scientists Policy Memo](https://fas.org/publication/advance-ai-with-cleaner-air-and-healthier-outcomes/)**). Please
+the public health impact of AI data centers and leveraing AI to improve public health (**[IEEE Spectrum](https://spectrum.ieee.org/data-centers-pollution)**, **[Federation of American Scientists](https://fas.org/publication/advance-ai-with-cleaner-air-and-healthier-outcomes/)**). Please
 check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impact of AI](https://arxiv.org/abs/2412.06288)**''. More results will be posted soon!
 
 
