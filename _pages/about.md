@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <a href="/publications/">AI, systems, and society:</a> Building
- a resilient, safe and healthy future.
+subtitle:  <a href="/publications/">AI, systems, and society</a>  
 
 profile:
   align: right
