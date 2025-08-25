@@ -2,14 +2,7 @@
 layout: about
 title: about
 permalink: /
-<<<<<<< HEAD
-subtitle:  <a href="/publications/">AI, systems, and society:</a>  Building
- a resilient, safe and healthy future.   
-=======
-subtitle: <a href="/publications/">AI, systems, and society:</a> Building
- a resilient, safe and healthy future.
->>>>>>> 4424e6722cc3427b2dc6d040323582aa26019b8f
-
+subtitle:  <a href="/publications/">AI, systems, and society:</a>  Building a resilient, safe and healthy future.   
 profile:
   align: right
   image: img_ren.jpg
