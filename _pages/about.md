@@ -30,14 +30,14 @@ the public health impact of AI data centers and leveraing AI to improve public h
 check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impact of AI](https://arxiv.org/abs/2412.06288)**''. More results will be posted soon!
 
 
-- **<span style="color:darkred;">Efficient AI:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [CPAL'25](https://arxiv.org/abs/2502.14075), [DAC'22](https://arxiv.org/abs/2203.09680), [tinyML'22](https://cms.tinyml.org/wp-content/uploads/talks2022/2203.04894.pdf),
- [OECD AI <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)**)
+- **<span style="color:darkred;">Efficient AI:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [CPAL'25](https://arxiv.org/abs/2502.14075), [DAC'22](https://arxiv.org/abs/2203.09680), [tinyML'22](https://cms.tinyml.org/wp-content/uploads/talks2022/2203.04894.pdf), [IEEE Spectrum](https://spectrum.ieee.org/ai-water-usage), 
+ [OECD AI](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)**)
 
 - **<span style="color:darkred;">Safe AI:</span>** Safeguarding AI from malicious and adversarial exploitation
 (**[NeurIPS'24b](https://arxiv.org/abs/2406.01946), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [ICML'23b](https://arxiv.org/abs/2305.00097), [ICCAD'22](https://arxiv.org/abs/2208.08569)**)
 
 
-- **<span style="color:darkred;">AI fairness:</span>** Building responsible AI to tackle societal challenges (**[ICML'24](https://arxiv.org/abs/2406.02790), [Communications of the ACM](https://arxiv.org/abs/2412.16539), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review <span style="font-weight:lighter;color:darkred;">(perspective article)</span>](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
+- **<span style="color:darkred;">AI fairness:</span>** Building responsible AI to tackle societal challenges (**[ICML'24](https://arxiv.org/abs/2406.02790), [Communications of the ACM](https://arxiv.org/abs/2412.16539), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
 
 
 
