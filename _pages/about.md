@@ -22,8 +22,8 @@ I am an Associate Professor of [Electrical and Computer Engineering](https://www
 Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
 
 
-- **<span style="color:darkred;">Reliable AI-augmented decision making:</span>** Infusing domain knowledge to robustify machine learning predictions for reliable decision making in highly dynamic, uncertain, and/or adversarial environments (**[SIGMETRICS'25](https://arxiv.org/abs/2306.10158), [SIGMETRICS'24](https://arxiv.org/abs/2401.04340), [NeurIPS'25](https://neurips.cc/virtual/2025/poster/115291), [NeurIPS'24a](https://arxiv.org/abs/2411.04204), 
-[NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23a](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572)**) 
+- **<span style="color:darkred;">Reliable AI-augmented decision making:</span>** Infusing domain knowledge to robustify machine learning predictions for reliable decision making in highly dynamic, uncertain, and/or adversarial environments (**[SIGMETRICS'25](https://arxiv.org/abs/2306.10158), [SIGMETRICS'24](https://arxiv.org/abs/2401.04340),  [SIGMETRICS'22b](https://arxiv.org/abs/2204.08572), [NeurIPS'25](https://neurips.cc/virtual/2025/poster/115291), [NeurIPS'24a](https://arxiv.org/abs/2411.04204), 
+[NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23a](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9)**) 
 
 - **<span style="color:darkred;">Health-informed AI:</span>** Quantifying and minimizing
 the public health impact of AI data centers and leveraing AI to improve public health (**[IEEE Spectrum](https://spectrum.ieee.org/data-centers-pollution)**, **[Federation of American Scientists](https://fas.org/publication/advance-ai-with-cleaner-air-and-healthier-outcomes/)**). Please
