@@ -30,7 +30,7 @@ the public health impact of AI data centers and leveraing AI to improve public h
 check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impact of AI](https://arxiv.org/abs/2412.06288)**''. More results will be posted soon!
 
 
-- **<span style="color:darkred;">Efficient AI:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [CPAL'25](https://arxiv.org/abs/2502.14075), [DAC'22](https://arxiv.org/abs/2203.09680), [tinyML'22](https://cms.tinyml.org/wp-content/uploads/talks2022/2203.04894.pdf), [IEEE Spectrum](https://spectrum.ieee.org/ai-water-usage), 
+- **<span style="color:darkred;">Efficient AI and data centers:</span>** Developing principled methodologies to measure and minimize AI's resource usage and lifecycle footprint (**[Communications of the ACM](https://arxiv.org/abs/2304.03271), [e-Energy'24a](https://arxiv.org/abs/2405.17469), [e-Energy'24b](https://arxiv.org/abs/2311.03615), [ASPLOS'24](https://dl.acm.org/doi/abs/10.1145/3620665.3640374), [SIGMETRICS'22a](https://arxiv.org/abs/2111.01203), [CPAL'25](https://arxiv.org/abs/2502.14075), [DAC'22](https://arxiv.org/abs/2203.09680), [tinyML'22](https://cms.tinyml.org/wp-content/uploads/talks2022/2203.04894.pdf), [IEEE Spectrum](https://spectrum.ieee.org/ai-water-usage), 
  [OECD AI](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)**)
 
 - **<span style="color:darkred;">Safe AI:</span>** Safeguarding AI from malicious and adversarial exploitation
@@ -42,13 +42,17 @@ check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impac
 
 
  I received the 2015 NSF CAREER award and paper awards from multiple conferences, including ACM e-Energy 2024 and 2016, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/). 
- I have also writen semitechnical articles for multiple magzines and organizations such as **[Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**, **[IEEE Spectrum](https://spectrum.ieee.org/)** ([one](https://spectrum.ieee.org/data-centers-pollution), [two](https://spectrum.ieee.org/ai-water-usage)), and
- **[OECD AI Policy Observatory](https://oecd.ai/en/)** ([one](https://oecd.ai/en/wonk/ways-to-minimise-water-use-related-to-ai-operations-not-what-you-think), [two](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)). Occasionally, I share my research findings on policy forums, public events and media,
+ I have also writen semitechnical articles for multiple magzines and organizations such as **[Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**, **[IEEE Spectrum](https://spectrum.ieee.org/)** ([1](https://spectrum.ieee.org/data-centers-pollution), [2](https://spectrum.ieee.org/ai-water-usage)), and
+ **[OECD AI Policy Observatory](https://oecd.ai/en/)** ([1](https://oecd.ai/en/wonk/ways-to-minimise-water-use-related-to-ai-operations-not-what-you-think), [2](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)). Occasionally, I share my research findings on policy forums, public events and media,
    such as expert panels organized by
+   [US Government Accountability Office](https://www.gao.gov/assets/gao-25-107172.pdf),
    [UN Trade and Development](https://unctad.org/meeting/intergovernmental-group-experts-e-commerce-and-digital-economy-8th-session),
    [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), 
    [MIT Technology Review](https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/),
-   WSJ ([one](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43), [two](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678)), CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)),  [Politico](https://www.politico.com/newsletters/the-long-game/2024/10/22/ai-and-the-growing-power-struggle-00184827),
-   [NPR](https://www.npr.org/transcripts/1249592906), and
-   [BBC](https://www.youtube.com/watch?v=b0C56yqIkbk). I was a speaker at [TED AI Vienna](https://www.ted.com/talks/shaolei_ren_ai_consumes_a_lot_of_water_but_why), Europe's first TED conference on AI. 
+   AP ([1](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4), [2](https://apnews.com/article/openai-stargate-oracle-data-center-0b3f4fa6e8d8141b4c143e3e7f41aba1)), 
+   WSJ ([1](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43), [2](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678), [3](https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d)), 
+   CNN ([1](https://www.cnn.com/2025/06/22/climate/ai-prompt-carbon-emissions-environment-wellness), [2](https://www.cnn.com/2025/10/17/tech/electricity-bill-price-increase-ai-data-centers)), NBC ([1](https://www.nbcnews.com/news/us-news/musk-xai-colossus-supercomputer-boxtown-memphis-tennessee-rcna206242), [2](https://www.nbcnews.com/tech/tech-news/thirsty-generative-ai-boom-poses-growing-problem-big-tech-rcna128301)), 
+   CNBC ([1](https://www.youtube.com/watch?v=SGHk3zE5xh4), [2](https://www.youtube.com/watch?v=MJQIQJYxey4)),
+   NPR ([1](https://www.npr.org/transcripts/1249592906), [2](https://one.npr.org/?sharedMediaId=nx-s1-5059073:nx-s1-dd125ecf-65a2-40d5-89e2-e5ca568238c5)), and
+   BBC ([1](https://www.youtube.com/watch?v=b0C56yqIkbk), [2](https://www.bbc.com/news/articles/cx2ngz7ep1eo), [3](https://www.bbc.com/audio/play/p0lvdy9x)). I was a speaker at [TED AI](https://www.ted.com/talks/shaolei_ren_ai_consumes_a_lot_of_water_but_why). 
 
