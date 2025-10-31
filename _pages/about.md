@@ -42,8 +42,8 @@ check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impac
 
 
  I received the 2015 NSF CAREER award and paper awards from multiple conferences, including ACM e-Energy 2024 and 2016, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/). 
- I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts), **IEEE Spectrum** ([one](https://spectrum.ieee.org/data-centers-pollution), [two](https://spectrum.ieee.org/ai-water-usage)), and
- **OECD AI Policy Observatory** ([one](https://oecd.ai/en/wonk/ways-to-minimise-water-use-related-to-ai-operations-not-what-you-think), [two](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)). Occasionally, I share my research findings on policy forums, public events and media,
+ I have also writen semitechnical articles for multiple magzines and organizations such as **[Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**, **[IEEE Spectrum](https://spectrum.ieee.org/)** ([one](https://spectrum.ieee.org/data-centers-pollution), [two](https://spectrum.ieee.org/ai-water-usage)), and
+ **[OECD AI Policy Observatory](https://oecd.ai/en/)** ([one](https://oecd.ai/en/wonk/ways-to-minimise-water-use-related-to-ai-operations-not-what-you-think), [two](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)). Occasionally, I share my research findings on policy forums, public events and media,
    such as expert panels organized by
    [UN Trade and Development](https://unctad.org/meeting/intergovernmental-group-experts-e-commerce-and-digital-economy-8th-session),
    [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), 
