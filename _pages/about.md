@@ -41,14 +41,14 @@ check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impac
 
 
 
- I received the 2015 NSF CAREER award and paper awards from multiple conferences, including ACM e-Energy 2024 and 2016, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/), for my research on computational sustainability. 
- I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts) and
-  [OECD AI Policy Observatory](https://www.linkedin.com/posts/oecd-ai_how-much-water-does-ai-consume-the-public-activity-7135961877473325056-QMM5). Occasionally, I share my research findings on policy forums, public events and media,
+ I received the 2015 NSF CAREER award and paper awards from multiple conferences, including ACM e-Energy 2024 and 2016, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/). 
+ I have also writen semitechnical articles for multiple magzines and organizations such as [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts), **IEEE Spectrum** ([one](https://spectrum.ieee.org/data-centers-pollution), [two](https://spectrum.ieee.org/ai-water-usage)), and
+ **OECD AI Policy Observatory** ([one](https://oecd.ai/en/wonk/ways-to-minimise-water-use-related-to-ai-operations-not-what-you-think), [two](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)). Occasionally, I share my research findings on policy forums, public events and media,
    such as expert panels organized by
    [UN Trade and Development](https://unctad.org/meeting/intergovernmental-group-experts-e-commerce-and-digital-economy-8th-session),
    [UN Environment Programme](https://news.ucr.edu/articles/2024/07/08/professor-joins-un-panel-environmental-impacts-ai), 
    [MIT Technology Review](https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/),
    WSJ ([one](https://www.wsj.com/science/environment/ai-electricity-water-environmental-impact-59520a43), [two](https://www.wsj.com/articles/artificial-intelligence-can-make-companies-greener-but-it-also-guzzles-energy-7c7b678)), CNBC ([one](https://www.youtube.com/watch?v=SGHk3zE5xh4), [two](https://www.youtube.com/watch?v=MJQIQJYxey4)),  [Politico](https://www.politico.com/newsletters/the-long-game/2024/10/22/ai-and-the-growing-power-struggle-00184827),
    [NPR](https://www.npr.org/transcripts/1249592906), and
-   [BBC](https://www.youtube.com/watch?v=b0C56yqIkbk). I was a speaker at [TED AI Vienna](https://www.ted.com/talks/shaolei_ren_ai_consumes_a_lot_of_water_but_why), Europe's first TED conference on AI. I currently serve on the steering committee of the [US Center for Strategic and International Studies (CSIS)](https://www.csis.org/programs/global-food-and-water-security-program) Project for Water Security. 
+   [BBC](https://www.youtube.com/watch?v=b0C56yqIkbk). I was a speaker at [TED AI Vienna](https://www.ted.com/talks/shaolei_ren_ai_consumes_a_lot_of_water_but_why), Europe's first TED conference on AI. 
 
