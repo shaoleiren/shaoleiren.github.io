@@ -26,7 +26,7 @@ Towards this goal, I study both algorithmic foundations and empirical methodolog
 [NeurIPS'23a](https://arxiv.org/abs/2311.01568), [NeurIPS'23b](https://arxiv.org/abs/2310.20098), [ICML'23a](https://arxiv.org/abs/2306.00172), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9)**) 
 
 - **<span style="color:darkred;">Health-informed AI:</span>** Quantifying and minimizing
-the public health impact of AI data centers and leveraing AI to improve public health (**[IEEE Spectrum](https://spectrum.ieee.org/data-centers-pollution)**, **[Federation of American Scientists](https://fas.org/publication/advance-ai-with-cleaner-air-and-healthier-outcomes/)**). Please
+the public health impact of AI data centers and leveraing AI to improve public health ([Harvard Business Review](https://hbr.org/2025/11/mitigating-the-public-health-impacts-of-ai-data-centers), **[IEEE Spectrum](https://spectrum.ieee.org/data-centers-pollution)**, **[Federation of American Scientists](https://fas.org/publication/advance-ai-with-cleaner-air-and-healthier-outcomes/)**). Please
 check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impact of AI](https://arxiv.org/abs/2412.06288)**''. More results will be posted soon!
 
 
@@ -42,7 +42,7 @@ check out our new paper "**[The Unpaid Toll: Quantifying the Public Health Impac
 
 
  I received the 2015 NSF CAREER award and paper awards from multiple conferences, including ACM e-Energy 2024 and 2016, the flagship conference of the [ACM SIG on Energy Systems and Informatics](https://energy.acm.org/). 
- I have also writen semitechnical articles for multiple magzines and organizations such as **[Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**, **[IEEE Spectrum](https://spectrum.ieee.org/)** ([1](https://spectrum.ieee.org/data-centers-pollution), [2](https://spectrum.ieee.org/ai-water-usage)), and
+ I have also writen semitechnical articles for multiple magzines and organizations such as **[Harvard Business Review](https://hbr.org/)** ([1](https://hbr.org/2025/11/mitigating-the-public-health-impacts-of-ai-data-centers), [2](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)), **[IEEE Spectrum](https://spectrum.ieee.org/)** ([1](https://spectrum.ieee.org/data-centers-pollution), [2](https://spectrum.ieee.org/ai-water-usage)), and
  **[OECD AI Policy Observatory](https://oecd.ai/en/)** ([1](https://oecd.ai/en/wonk/ways-to-minimise-water-use-related-to-ai-operations-not-what-you-think), [2](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)). Occasionally, I share my research findings on policy forums, public events and media,
    such as expert panels organized by
    [US Government Accountability Office](https://www.gao.gov/assets/gao-25-107172.pdf),
