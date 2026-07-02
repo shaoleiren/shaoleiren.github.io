@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am an Associate Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on **<a href="/publications/">AI, systems, and society</a>**, striving to build
+I am a Professor of [Electrical and Computer Engineering](https://www.ece.ucr.edu/) at the University of California, Riverside, where I am also a cooperating faculty member in the [Computer Science and Engineering](https://www1.cs.ucr.edu/) department. My research broadly focuses on **<a href="/publications/">AI, systems, and society</a>**, striving to build
  a resilient, safe and healthy future. 
 Towards this goal, I study both algorithmic foundations and empirical methodologies, centered on:
 
