@@ -33,7 +33,7 @@ the public health impact of AI data centers and leveraing AI to improve public h
  [OECD AI](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)**)
 
 - **<span style="color:darkred;">Safe AI:</span>** Safeguarding AI from malicious and adversarial exploitation
-(**[NeurIPS'24b](https://arxiv.org/abs/2406.01946), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [ICML'23b](https://arxiv.org/abs/2305.00097), [ICCAD'22](https://arxiv.org/abs/2208.08569)**)
+(**[NeurIPS'26](https://openreview.net/pdf?id=hO8NU92Rtb), [NeurIPS'24b](https://arxiv.org/abs/2406.01946), [ICLR'24](https://openreview.net/pdf?id=e2YOVTenU9), [ICML'23b](https://arxiv.org/abs/2305.00097), [ICCAD'22](https://arxiv.org/abs/2208.08569)**)
 
 
 - **<span style="color:darkred;">AI fairness:</span>** Building responsible AI to tackle societal challenges (**[ICML'24](https://arxiv.org/abs/2406.02790), [Communications of the ACM](https://arxiv.org/abs/2412.16539), [e-Energy'24c](https://arxiv.org/abs/2307.05494), [Harvard Business Review](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)**)
